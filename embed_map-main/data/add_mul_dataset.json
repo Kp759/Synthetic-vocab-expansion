@@ -1,0 +1,4002 @@
+[
+  {
+    "input": "98+27=",
+    "target": 2646
+  },
+  {
+    "input": "8+12=",
+    "target": 96
+  },
+  {
+    "input": "88+53=",
+    "target": 4664
+  },
+  {
+    "input": "59+60=",
+    "target": 3540
+  },
+  {
+    "input": "89+39=",
+    "target": 3471
+  },
+  {
+    "input": "14+88=",
+    "target": 1232
+  },
+  {
+    "input": "92+25=",
+    "target": 2300
+  },
+  {
+    "input": "24+50=",
+    "target": 1200
+  },
+  {
+    "input": "30+15=",
+    "target": 450
+  },
+  {
+    "input": "27+51=",
+    "target": 1377
+  },
+  {
+    "input": "22+93=",
+    "target": 2046
+  },
+  {
+    "input": "43+52=",
+    "target": 2236
+  },
+  {
+    "input": "34+34=",
+    "target": 1156
+  },
+  {
+    "input": "78+3=",
+    "target": 234
+  },
+  {
+    "input": "93+60=",
+    "target": 5580
+  },
+  {
+    "input": "7+65=",
+    "target": 455
+  },
+  {
+    "input": "20+34=",
+    "target": 680
+  },
+  {
+    "input": "70+80=",
+    "target": 5600
+  },
+  {
+    "input": "75+9=",
+    "target": 675
+  },
+  {
+    "input": "58+21=",
+    "target": 1218
+  },
+  {
+    "input": "31+48=",
+    "target": 1488
+  },
+  {
+    "input": "85+23=",
+    "target": 1955
+  },
+  {
+    "input": "23+73=",
+    "target": 1679
+  },
+  {
+    "input": "58+80=",
+    "target": 4640
+  },
+  {
+    "input": "25+56=",
+    "target": 1400
+  },
+  {
+    "input": "11+32=",
+    "target": 352
+  },
+  {
+    "input": "80+43=",
+    "target": 3440
+  },
+  {
+    "input": "46+84=",
+    "target": 3864
+  },
+  {
+    "input": "80+55=",
+    "target": 4400
+  },
+  {
+    "input": "35+90=",
+    "target": 3150
+  },
+  {
+    "input": "100+83=",
+    "target": 8300
+  },
+  {
+    "input": "52+80=",
+    "target": 4160
+  },
+  {
+    "input": "57+38=",
+    "target": 2166
+  },
+  {
+    "input": "97+58=",
+    "target": 5626
+  },
+  {
+    "input": "60+71=",
+    "target": 4260
+  },
+  {
+    "input": "63+58=",
+    "target": 3654
+  },
+  {
+    "input": "35+43=",
+    "target": 1505
+  },
+  {
+    "input": "1+58=",
+    "target": 58
+  },
+  {
+    "input": "76+54=",
+    "target": 4104
+  },
+  {
+    "input": "92+8=",
+    "target": 736
+  },
+  {
+    "input": "78+52=",
+    "target": 4056
+  },
+  {
+    "input": "81+5=",
+    "target": 405
+  },
+  {
+    "input": "34+91=",
+    "target": 3094
+  },
+  {
+    "input": "8+58=",
+    "target": 464
+  },
+  {
+    "input": "53+68=",
+    "target": 3604
+  },
+  {
+    "input": "16+71=",
+    "target": 1136
+  },
+  {
+    "input": "21+64=",
+    "target": 1344
+  },
+  {
+    "input": "93+2=",
+    "target": 186
+  },
+  {
+    "input": "68+2=",
+    "target": 136
+  },
+  {
+    "input": "76+98=",
+    "target": 7448
+  },
+  {
+    "input": "98+26=",
+    "target": 2548
+  },
+  {
+    "input": "48+79=",
+    "target": 3792
+  },
+  {
+    "input": "54+89=",
+    "target": 4806
+  },
+  {
+    "input": "31+32=",
+    "target": 992
+  },
+  {
+    "input": "40+40=",
+    "target": 1600
+  },
+  {
+    "input": "47+45=",
+    "target": 2115
+  },
+  {
+    "input": "12+23=",
+    "target": 276
+  },
+  {
+    "input": "45+13=",
+    "target": 585
+  },
+  {
+    "input": "81+100=",
+    "target": 8100
+  },
+  {
+    "input": "53+32=",
+    "target": 1696
+  },
+  {
+    "input": "1+83=",
+    "target": 83
+  },
+  {
+    "input": "45+72=",
+    "target": 3240
+  },
+  {
+    "input": "94+62=",
+    "target": 5828
+  },
+  {
+    "input": "5+27=",
+    "target": 135
+  },
+  {
+    "input": "57+47=",
+    "target": 2679
+  },
+  {
+    "input": "8+53=",
+    "target": 424
+  },
+  {
+    "input": "49+50=",
+    "target": 2450
+  },
+  {
+    "input": "63+100=",
+    "target": 6300
+  },
+  {
+    "input": "79+41=",
+    "target": 3239
+  },
+  {
+    "input": "79+81=",
+    "target": 6399
+  },
+  {
+    "input": "92+46=",
+    "target": 4232
+  },
+  {
+    "input": "57+78=",
+    "target": 4446
+  },
+  {
+    "input": "69+58=",
+    "target": 4002
+  },
+  {
+    "input": "27+83=",
+    "target": 2241
+  },
+  {
+    "input": "24+77=",
+    "target": 1848
+  },
+  {
+    "input": "97+15=",
+    "target": 1455
+  },
+  {
+    "input": "52+30=",
+    "target": 1560
+  },
+  {
+    "input": "66+61=",
+    "target": 4026
+  },
+  {
+    "input": "49+84=",
+    "target": 4116
+  },
+  {
+    "input": "20+60=",
+    "target": 1200
+  },
+  {
+    "input": "85+33=",
+    "target": 2805
+  },
+  {
+    "input": "26+59=",
+    "target": 1534
+  },
+  {
+    "input": "20+4=",
+    "target": 80
+  },
+  {
+    "input": "20+20=",
+    "target": 400
+  },
+  {
+    "input": "56+27=",
+    "target": 1512
+  },
+  {
+    "input": "54+66=",
+    "target": 3564
+  },
+  {
+    "input": "76+39=",
+    "target": 2964
+  },
+  {
+    "input": "83+47=",
+    "target": 3901
+  },
+  {
+    "input": "43+24=",
+    "target": 1032
+  },
+  {
+    "input": "78+21=",
+    "target": 1638
+  },
+  {
+    "input": "32+86=",
+    "target": 2752
+  },
+  {
+    "input": "77+51=",
+    "target": 3927
+  },
+  {
+    "input": "44+4=",
+    "target": 176
+  },
+  {
+    "input": "75+90=",
+    "target": 6750
+  },
+  {
+    "input": "47+6=",
+    "target": 282
+  },
+  {
+    "input": "12+25=",
+    "target": 300
+  },
+  {
+    "input": "96+63=",
+    "target": 6048
+  },
+  {
+    "input": "64+64=",
+    "target": 4096
+  },
+  {
+    "input": "26+60=",
+    "target": 1560
+  },
+  {
+    "input": "37+5=",
+    "target": 185
+  },
+  {
+    "input": "60+53=",
+    "target": 3180
+  },
+  {
+    "input": "72+68=",
+    "target": 4896
+  },
+  {
+    "input": "98+35=",
+    "target": 3430
+  },
+  {
+    "input": "65+80=",
+    "target": 5200
+  },
+  {
+    "input": "71+83=",
+    "target": 5893
+  },
+  {
+    "input": "65+42=",
+    "target": 2730
+  },
+  {
+    "input": "8+64=",
+    "target": 512
+  },
+  {
+    "input": "50+72=",
+    "target": 3600
+  },
+  {
+    "input": "39+80=",
+    "target": 3120
+  },
+  {
+    "input": "22+17=",
+    "target": 374
+  },
+  {
+    "input": "60+24=",
+    "target": 1440
+  },
+  {
+    "input": "55+25=",
+    "target": 1375
+  },
+  {
+    "input": "56+57=",
+    "target": 3192
+  },
+  {
+    "input": "65+97=",
+    "target": 6305
+  },
+  {
+    "input": "25+23=",
+    "target": 575
+  },
+  {
+    "input": "58+23=",
+    "target": 1334
+  },
+  {
+    "input": "84+1=",
+    "target": 84
+  },
+  {
+    "input": "88+28=",
+    "target": 2464
+  },
+  {
+    "input": "50+91=",
+    "target": 4550
+  },
+  {
+    "input": "17+42=",
+    "target": 714
+  },
+  {
+    "input": "67+12=",
+    "target": 804
+  },
+  {
+    "input": "41+53=",
+    "target": 2173
+  },
+  {
+    "input": "6+92=",
+    "target": 552
+  },
+  {
+    "input": "62+80=",
+    "target": 4960
+  },
+  {
+    "input": "80+47=",
+    "target": 3760
+  },
+  {
+    "input": "38+23=",
+    "target": 874
+  },
+  {
+    "input": "78+2=",
+    "target": 156
+  },
+  {
+    "input": "86+54=",
+    "target": 4644
+  },
+  {
+    "input": "96+6=",
+    "target": 576
+  },
+  {
+    "input": "64+80=",
+    "target": 5120
+  },
+  {
+    "input": "78+21=",
+    "target": 1638
+  },
+  {
+    "input": "32+42=",
+    "target": 1344
+  },
+  {
+    "input": "75+48=",
+    "target": 3600
+  },
+  {
+    "input": "71+92=",
+    "target": 6532
+  },
+  {
+    "input": "18+65=",
+    "target": 1170
+  },
+  {
+    "input": "9+90=",
+    "target": 810
+  },
+  {
+    "input": "28+7=",
+    "target": 196
+  },
+  {
+    "input": "85+69=",
+    "target": 5865
+  },
+  {
+    "input": "60+33=",
+    "target": 1980
+  },
+  {
+    "input": "67+42=",
+    "target": 2814
+  },
+  {
+    "input": "43+91=",
+    "target": 3913
+  },
+  {
+    "input": "5+52=",
+    "target": 260
+  },
+  {
+    "input": "3+51=",
+    "target": 153
+  },
+  {
+    "input": "82+17=",
+    "target": 1394
+  },
+  {
+    "input": "63+29=",
+    "target": 1827
+  },
+  {
+    "input": "8+68=",
+    "target": 544
+  },
+  {
+    "input": "24+32=",
+    "target": 768
+  },
+  {
+    "input": "43+72=",
+    "target": 3096
+  },
+  {
+    "input": "28+34=",
+    "target": 952
+  },
+  {
+    "input": "75+63=",
+    "target": 4725
+  },
+  {
+    "input": "23+92=",
+    "target": 2116
+  },
+  {
+    "input": "67+28=",
+    "target": 1876
+  },
+  {
+    "input": "72+71=",
+    "target": 5112
+  },
+  {
+    "input": "59+20=",
+    "target": 1180
+  },
+  {
+    "input": "44+41=",
+    "target": 1804
+  },
+  {
+    "input": "55+5=",
+    "target": 275
+  },
+  {
+    "input": "40+7=",
+    "target": 280
+  },
+  {
+    "input": "34+70=",
+    "target": 2380
+  },
+  {
+    "input": "83+34=",
+    "target": 2822
+  },
+  {
+    "input": "86+29=",
+    "target": 2494
+  },
+  {
+    "input": "80+68=",
+    "target": 5440
+  },
+  {
+    "input": "96+92=",
+    "target": 8832
+  },
+  {
+    "input": "63+93=",
+    "target": 5859
+  },
+  {
+    "input": "93+19=",
+    "target": 1767
+  },
+  {
+    "input": "62+21=",
+    "target": 1302
+  },
+  {
+    "input": "50+61=",
+    "target": 3050
+  },
+  {
+    "input": "40+82=",
+    "target": 3280
+  },
+  {
+    "input": "92+52=",
+    "target": 4784
+  },
+  {
+    "input": "16+30=",
+    "target": 480
+  },
+  {
+    "input": "18+85=",
+    "target": 1530
+  },
+  {
+    "input": "85+78=",
+    "target": 6630
+  },
+  {
+    "input": "16+92=",
+    "target": 1472
+  },
+  {
+    "input": "28+56=",
+    "target": 1568
+  },
+  {
+    "input": "62+9=",
+    "target": 558
+  },
+  {
+    "input": "98+88=",
+    "target": 8624
+  },
+  {
+    "input": "15+10=",
+    "target": 150
+  },
+  {
+    "input": "32+26=",
+    "target": 832
+  },
+  {
+    "input": "84+78=",
+    "target": 6552
+  },
+  {
+    "input": "55+3=",
+    "target": 165
+  },
+  {
+    "input": "26+4=",
+    "target": 104
+  },
+  {
+    "input": "35+12=",
+    "target": 420
+  },
+  {
+    "input": "2+31=",
+    "target": 62
+  },
+  {
+    "input": "40+11=",
+    "target": 440
+  },
+  {
+    "input": "96+62=",
+    "target": 5952
+  },
+  {
+    "input": "77+90=",
+    "target": 6930
+  },
+  {
+    "input": "11+78=",
+    "target": 858
+  },
+  {
+    "input": "4+25=",
+    "target": 100
+  },
+  {
+    "input": "13+30=",
+    "target": 390
+  },
+  {
+    "input": "98+60=",
+    "target": 5880
+  },
+  {
+    "input": "98+20=",
+    "target": 1960
+  },
+  {
+    "input": "32+71=",
+    "target": 2272
+  },
+  {
+    "input": "50+71=",
+    "target": 3550
+  },
+  {
+    "input": "55+2=",
+    "target": 110
+  },
+  {
+    "input": "31+28=",
+    "target": 868
+  },
+  {
+    "input": "62+31=",
+    "target": 1922
+  },
+  {
+    "input": "3+70=",
+    "target": 210
+  },
+  {
+    "input": "36+93=",
+    "target": 3348
+  },
+  {
+    "input": "77+88=",
+    "target": 6776
+  },
+  {
+    "input": "98+91=",
+    "target": 8918
+  },
+  {
+    "input": "7+46=",
+    "target": 322
+  },
+  {
+    "input": "8+97=",
+    "target": 776
+  },
+  {
+    "input": "74+80=",
+    "target": 5920
+  },
+  {
+    "input": "34+27=",
+    "target": 918
+  },
+  {
+    "input": "26+24=",
+    "target": 624
+  },
+  {
+    "input": "4+60=",
+    "target": 240
+  },
+  {
+    "input": "92+30=",
+    "target": 2760
+  },
+  {
+    "input": "4+10=",
+    "target": 40
+  },
+  {
+    "input": "8+52=",
+    "target": 416
+  },
+  {
+    "input": "60+28=",
+    "target": 1680
+  },
+  {
+    "input": "85+28=",
+    "target": 2380
+  },
+  {
+    "input": "89+40=",
+    "target": 3560
+  },
+  {
+    "input": "18+54=",
+    "target": 972
+  },
+  {
+    "input": "51+48=",
+    "target": 2448
+  },
+  {
+    "input": "43+81=",
+    "target": 3483
+  },
+  {
+    "input": "93+78=",
+    "target": 7254
+  },
+  {
+    "input": "44+80=",
+    "target": 3520
+  },
+  {
+    "input": "11+83=",
+    "target": 913
+  },
+  {
+    "input": "37+68=",
+    "target": 2516
+  },
+  {
+    "input": "9+59=",
+    "target": 531
+  },
+  {
+    "input": "44+63=",
+    "target": 2772
+  },
+  {
+    "input": "30+14=",
+    "target": 420
+  },
+  {
+    "input": "44+65=",
+    "target": 2860
+  },
+  {
+    "input": "48+62=",
+    "target": 2976
+  },
+  {
+    "input": "71+97=",
+    "target": 6887
+  },
+  {
+    "input": "37+53=",
+    "target": 1961
+  },
+  {
+    "input": "55+36=",
+    "target": 1980
+  },
+  {
+    "input": "1+5=",
+    "target": 5
+  },
+  {
+    "input": "90+84=",
+    "target": 7560
+  },
+  {
+    "input": "72+46=",
+    "target": 3312
+  },
+  {
+    "input": "83+84=",
+    "target": 6972
+  },
+  {
+    "input": "32+75=",
+    "target": 2400
+  },
+  {
+    "input": "45+20=",
+    "target": 900
+  },
+  {
+    "input": "59+2=",
+    "target": 118
+  },
+  {
+    "input": "63+28=",
+    "target": 1764
+  },
+  {
+    "input": "85+18=",
+    "target": 1530
+  },
+  {
+    "input": "44+23=",
+    "target": 1012
+  },
+  {
+    "input": "82+94=",
+    "target": 7708
+  },
+  {
+    "input": "90+24=",
+    "target": 2160
+  },
+  {
+    "input": "23+22=",
+    "target": 506
+  },
+  {
+    "input": "76+64=",
+    "target": 4864
+  },
+  {
+    "input": "81+17=",
+    "target": 1377
+  },
+  {
+    "input": "85+83=",
+    "target": 7055
+  },
+  {
+    "input": "44+26=",
+    "target": 1144
+  },
+  {
+    "input": "38+3=",
+    "target": 114
+  },
+  {
+    "input": "75+70=",
+    "target": 5250
+  },
+  {
+    "input": "98+4=",
+    "target": 392
+  },
+  {
+    "input": "16+75=",
+    "target": 1200
+  },
+  {
+    "input": "21+46=",
+    "target": 966
+  },
+  {
+    "input": "11+21=",
+    "target": 231
+  },
+  {
+    "input": "76+93=",
+    "target": 7068
+  },
+  {
+    "input": "58+75=",
+    "target": 4350
+  },
+  {
+    "input": "8+29=",
+    "target": 232
+  },
+  {
+    "input": "20+22=",
+    "target": 440
+  },
+  {
+    "input": "64+60=",
+    "target": 3840
+  },
+  {
+    "input": "85+27=",
+    "target": 2295
+  },
+  {
+    "input": "52+11=",
+    "target": 572
+  },
+  {
+    "input": "16+76=",
+    "target": 1216
+  },
+  {
+    "input": "48+91=",
+    "target": 4368
+  },
+  {
+    "input": "88+7=",
+    "target": 616
+  },
+  {
+    "input": "32+100=",
+    "target": 3200
+  },
+  {
+    "input": "10+66=",
+    "target": 660
+  },
+  {
+    "input": "84+74=",
+    "target": 6216
+  },
+  {
+    "input": "77+94=",
+    "target": 7238
+  },
+  {
+    "input": "59+33=",
+    "target": 1947
+  },
+  {
+    "input": "90+71=",
+    "target": 6390
+  },
+  {
+    "input": "79+45=",
+    "target": 3555
+  },
+  {
+    "input": "33+45=",
+    "target": 1485
+  },
+  {
+    "input": "48+1=",
+    "target": 48
+  },
+  {
+    "input": "89+91=",
+    "target": 8099
+  },
+  {
+    "input": "83+33=",
+    "target": 2739
+  },
+  {
+    "input": "39+7=",
+    "target": 273
+  },
+  {
+    "input": "76+30=",
+    "target": 2280
+  },
+  {
+    "input": "15+80=",
+    "target": 1200
+  },
+  {
+    "input": "59+28=",
+    "target": 1652
+  },
+  {
+    "input": "39+83=",
+    "target": 3237
+  },
+  {
+    "input": "57+53=",
+    "target": 3021
+  },
+  {
+    "input": "66+28=",
+    "target": 1848
+  },
+  {
+    "input": "42+39=",
+    "target": 1638
+  },
+  {
+    "input": "50+15=",
+    "target": 750
+  },
+  {
+    "input": "49+38=",
+    "target": 1862
+  },
+  {
+    "input": "99+100=",
+    "target": 9900
+  },
+  {
+    "input": "47+100=",
+    "target": 4700
+  },
+  {
+    "input": "24+60=",
+    "target": 1440
+  },
+  {
+    "input": "30+35=",
+    "target": 1050
+  },
+  {
+    "input": "3+25=",
+    "target": 75
+  },
+  {
+    "input": "98+61=",
+    "target": 5978
+  },
+  {
+    "input": "2+76=",
+    "target": 152
+  },
+  {
+    "input": "100+59=",
+    "target": 5900
+  },
+  {
+    "input": "45+62=",
+    "target": 2790
+  },
+  {
+    "input": "10+83=",
+    "target": 830
+  },
+  {
+    "input": "81+42=",
+    "target": 3402
+  },
+  {
+    "input": "90+55=",
+    "target": 4950
+  },
+  {
+    "input": "49+28=",
+    "target": 1372
+  },
+  {
+    "input": "13+82=",
+    "target": 1066
+  },
+  {
+    "input": "80+57=",
+    "target": 4560
+  },
+  {
+    "input": "31+98=",
+    "target": 3038
+  },
+  {
+    "input": "62+68=",
+    "target": 4216
+  },
+  {
+    "input": "59+91=",
+    "target": 5369
+  },
+  {
+    "input": "73+10=",
+    "target": 730
+  },
+  {
+    "input": "16+36=",
+    "target": 576
+  },
+  {
+    "input": "59+39=",
+    "target": 2301
+  },
+  {
+    "input": "73+79=",
+    "target": 5767
+  },
+  {
+    "input": "25+23=",
+    "target": 575
+  },
+  {
+    "input": "72+63=",
+    "target": 4536
+  },
+  {
+    "input": "7+12=",
+    "target": 84
+  },
+  {
+    "input": "75+72=",
+    "target": 5400
+  },
+  {
+    "input": "71+83=",
+    "target": 5893
+  },
+  {
+    "input": "46+48=",
+    "target": 2208
+  },
+  {
+    "input": "55+1=",
+    "target": 55
+  },
+  {
+    "input": "26+79=",
+    "target": 2054
+  },
+  {
+    "input": "86+65=",
+    "target": 5590
+  },
+  {
+    "input": "7+62=",
+    "target": 434
+  },
+  {
+    "input": "84+75=",
+    "target": 6300
+  },
+  {
+    "input": "93+74=",
+    "target": 6882
+  },
+  {
+    "input": "14+62=",
+    "target": 868
+  },
+  {
+    "input": "46+38=",
+    "target": 1748
+  },
+  {
+    "input": "66+48=",
+    "target": 3168
+  },
+  {
+    "input": "28+23=",
+    "target": 644
+  },
+  {
+    "input": "56+20=",
+    "target": 1120
+  },
+  {
+    "input": "38+78=",
+    "target": 2964
+  },
+  {
+    "input": "3+81=",
+    "target": 243
+  },
+  {
+    "input": "79+84=",
+    "target": 6636
+  },
+  {
+    "input": "26+68=",
+    "target": 1768
+  },
+  {
+    "input": "33+64=",
+    "target": 2112
+  },
+  {
+    "input": "20+43=",
+    "target": 860
+  },
+  {
+    "input": "91+90=",
+    "target": 8190
+  },
+  {
+    "input": "48+9=",
+    "target": 432
+  },
+  {
+    "input": "17+25=",
+    "target": 425
+  },
+  {
+    "input": "22+45=",
+    "target": 990
+  },
+  {
+    "input": "70+70=",
+    "target": 4900
+  },
+  {
+    "input": "98+28=",
+    "target": 2744
+  },
+  {
+    "input": "78+39=",
+    "target": 3042
+  },
+  {
+    "input": "7+45=",
+    "target": 315
+  },
+  {
+    "input": "6+68=",
+    "target": 408
+  },
+  {
+    "input": "64+29=",
+    "target": 1856
+  },
+  {
+    "input": "8+60=",
+    "target": 480
+  },
+  {
+    "input": "100+24=",
+    "target": 2400
+  },
+  {
+    "input": "23+29=",
+    "target": 667
+  },
+  {
+    "input": "24+74=",
+    "target": 1776
+  },
+  {
+    "input": "7+55=",
+    "target": 385
+  },
+  {
+    "input": "60+50=",
+    "target": 3000
+  },
+  {
+    "input": "21+74=",
+    "target": 1554
+  },
+  {
+    "input": "66+78=",
+    "target": 5148
+  },
+  {
+    "input": "41+39=",
+    "target": 1599
+  },
+  {
+    "input": "82+88=",
+    "target": 7216
+  },
+  {
+    "input": "24+73=",
+    "target": 1752
+  },
+  {
+    "input": "76+94=",
+    "target": 7144
+  },
+  {
+    "input": "65+97=",
+    "target": 6305
+  },
+  {
+    "input": "98+33=",
+    "target": 3234
+  },
+  {
+    "input": "60+66=",
+    "target": 3960
+  },
+  {
+    "input": "48+21=",
+    "target": 1008
+  },
+  {
+    "input": "72+53=",
+    "target": 3816
+  },
+  {
+    "input": "43+36=",
+    "target": 1548
+  },
+  {
+    "input": "80+82=",
+    "target": 6560
+  },
+  {
+    "input": "88+22=",
+    "target": 1936
+  },
+  {
+    "input": "55+16=",
+    "target": 880
+  },
+  {
+    "input": "68+11=",
+    "target": 748
+  },
+  {
+    "input": "56+9=",
+    "target": 504
+  },
+  {
+    "input": "26+61=",
+    "target": 1586
+  },
+  {
+    "input": "64+96=",
+    "target": 6144
+  },
+  {
+    "input": "69+14=",
+    "target": 966
+  },
+  {
+    "input": "74+62=",
+    "target": 4588
+  },
+  {
+    "input": "93+14=",
+    "target": 1302
+  },
+  {
+    "input": "59+61=",
+    "target": 3599
+  },
+  {
+    "input": "19+39=",
+    "target": 741
+  },
+  {
+    "input": "34+55=",
+    "target": 1870
+  },
+  {
+    "input": "71+20=",
+    "target": 1420
+  },
+  {
+    "input": "39+1=",
+    "target": 39
+  },
+  {
+    "input": "4+85=",
+    "target": 340
+  },
+  {
+    "input": "4+22=",
+    "target": 88
+  },
+  {
+    "input": "86+67=",
+    "target": 5762
+  },
+  {
+    "input": "93+88=",
+    "target": 8184
+  },
+  {
+    "input": "8+3=",
+    "target": 24
+  },
+  {
+    "input": "44+29=",
+    "target": 1276
+  },
+  {
+    "input": "49+7=",
+    "target": 343
+  },
+  {
+    "input": "73+60=",
+    "target": 4380
+  },
+  {
+    "input": "52+43=",
+    "target": 2236
+  },
+  {
+    "input": "94+94=",
+    "target": 8836
+  },
+  {
+    "input": "51+97=",
+    "target": 4947
+  },
+  {
+    "input": "13+33=",
+    "target": 429
+  },
+  {
+    "input": "5+70=",
+    "target": 350
+  },
+  {
+    "input": "34+47=",
+    "target": 1598
+  },
+  {
+    "input": "69+34=",
+    "target": 2346
+  },
+  {
+    "input": "82+81=",
+    "target": 6642
+  },
+  {
+    "input": "24+20=",
+    "target": 480
+  },
+  {
+    "input": "24+91=",
+    "target": 2184
+  },
+  {
+    "input": "45+80=",
+    "target": 3600
+  },
+  {
+    "input": "26+67=",
+    "target": 1742
+  },
+  {
+    "input": "64+70=",
+    "target": 4480
+  },
+  {
+    "input": "98+3=",
+    "target": 294
+  },
+  {
+    "input": "12+15=",
+    "target": 180
+  },
+  {
+    "input": "23+7=",
+    "target": 161
+  },
+  {
+    "input": "15+2=",
+    "target": 30
+  },
+  {
+    "input": "13+8=",
+    "target": 104
+  },
+  {
+    "input": "42+47=",
+    "target": 1974
+  },
+  {
+    "input": "35+40=",
+    "target": 1400
+  },
+  {
+    "input": "95+93=",
+    "target": 8835
+  },
+  {
+    "input": "9+74=",
+    "target": 666
+  },
+  {
+    "input": "26+12=",
+    "target": 312
+  },
+  {
+    "input": "55+92=",
+    "target": 5060
+  },
+  {
+    "input": "29+25=",
+    "target": 725
+  },
+  {
+    "input": "66+49=",
+    "target": 3234
+  },
+  {
+    "input": "73+33=",
+    "target": 2409
+  },
+  {
+    "input": "9+89=",
+    "target": 801
+  },
+  {
+    "input": "84+46=",
+    "target": 3864
+  },
+  {
+    "input": "66+54=",
+    "target": 3564
+  },
+  {
+    "input": "30+98=",
+    "target": 2940
+  },
+  {
+    "input": "93+87=",
+    "target": 8091
+  },
+  {
+    "input": "46+74=",
+    "target": 3404
+  },
+  {
+    "input": "11+85=",
+    "target": 935
+  },
+  {
+    "input": "34+95=",
+    "target": 3230
+  },
+  {
+    "input": "75+60=",
+    "target": 4500
+  },
+  {
+    "input": "88+99=",
+    "target": 8712
+  },
+  {
+    "input": "71+50=",
+    "target": 3550
+  },
+  {
+    "input": "92+55=",
+    "target": 5060
+  },
+  {
+    "input": "18+2=",
+    "target": 36
+  },
+  {
+    "input": "26+81=",
+    "target": 2106
+  },
+  {
+    "input": "6+75=",
+    "target": 450
+  },
+  {
+    "input": "71+80=",
+    "target": 5680
+  },
+  {
+    "input": "10+45=",
+    "target": 450
+  },
+  {
+    "input": "99+9=",
+    "target": 891
+  },
+  {
+    "input": "26+60=",
+    "target": 1560
+  },
+  {
+    "input": "18+51=",
+    "target": 918
+  },
+  {
+    "input": "18+6=",
+    "target": 108
+  },
+  {
+    "input": "45+8=",
+    "target": 360
+  },
+  {
+    "input": "77+28=",
+    "target": 2156
+  },
+  {
+    "input": "93+46=",
+    "target": 4278
+  },
+  {
+    "input": "71+38=",
+    "target": 2698
+  },
+  {
+    "input": "13+93=",
+    "target": 1209
+  },
+  {
+    "input": "100+89=",
+    "target": 8900
+  },
+  {
+    "input": "20+35=",
+    "target": 700
+  },
+  {
+    "input": "35+52=",
+    "target": 1820
+  },
+  {
+    "input": "78+64=",
+    "target": 4992
+  },
+  {
+    "input": "70+52=",
+    "target": 3640
+  },
+  {
+    "input": "17+36=",
+    "target": 612
+  },
+  {
+    "input": "26+14=",
+    "target": 364
+  },
+  {
+    "input": "85+33=",
+    "target": 2805
+  },
+  {
+    "input": "83+26=",
+    "target": 2158
+  },
+  {
+    "input": "24+97=",
+    "target": 2328
+  },
+  {
+    "input": "1+79=",
+    "target": 79
+  },
+  {
+    "input": "54+100=",
+    "target": 5400
+  },
+  {
+    "input": "50+34=",
+    "target": 1700
+  },
+  {
+    "input": "79+36=",
+    "target": 2844
+  },
+  {
+    "input": "15+3=",
+    "target": 45
+  },
+  {
+    "input": "3+60=",
+    "target": 180
+  },
+  {
+    "input": "69+30=",
+    "target": 2070
+  },
+  {
+    "input": "62+68=",
+    "target": 4216
+  },
+  {
+    "input": "87+40=",
+    "target": 3480
+  },
+  {
+    "input": "56+43=",
+    "target": 2408
+  },
+  {
+    "input": "53+58=",
+    "target": 3074
+  },
+  {
+    "input": "24+18=",
+    "target": 432
+  },
+  {
+    "input": "96+73=",
+    "target": 7008
+  },
+  {
+    "input": "41+96=",
+    "target": 3936
+  },
+  {
+    "input": "73+12=",
+    "target": 876
+  },
+  {
+    "input": "62+52=",
+    "target": 3224
+  },
+  {
+    "input": "73+36=",
+    "target": 2628
+  },
+  {
+    "input": "76+90=",
+    "target": 6840
+  },
+  {
+    "input": "33+25=",
+    "target": 825
+  },
+  {
+    "input": "88+10=",
+    "target": 880
+  },
+  {
+    "input": "90+21=",
+    "target": 1890
+  },
+  {
+    "input": "54+54=",
+    "target": 2916
+  },
+  {
+    "input": "73+21=",
+    "target": 1533
+  },
+  {
+    "input": "100+79=",
+    "target": 7900
+  },
+  {
+    "input": "5+10=",
+    "target": 50
+  },
+  {
+    "input": "51+75=",
+    "target": 3825
+  },
+  {
+    "input": "66+51=",
+    "target": 3366
+  },
+  {
+    "input": "66+47=",
+    "target": 3102
+  },
+  {
+    "input": "77+36=",
+    "target": 2772
+  },
+  {
+    "input": "15+71=",
+    "target": 1065
+  },
+  {
+    "input": "72+45=",
+    "target": 3240
+  },
+  {
+    "input": "45+4=",
+    "target": 180
+  },
+  {
+    "input": "82+31=",
+    "target": 2542
+  },
+  {
+    "input": "95+73=",
+    "target": 6935
+  },
+  {
+    "input": "60+82=",
+    "target": 4920
+  },
+  {
+    "input": "94+99=",
+    "target": 9306
+  },
+  {
+    "input": "33+64=",
+    "target": 2112
+  },
+  {
+    "input": "85+24=",
+    "target": 2040
+  },
+  {
+    "input": "22+69=",
+    "target": 1518
+  },
+  {
+    "input": "15+17=",
+    "target": 255
+  },
+  {
+    "input": "28+23=",
+    "target": 644
+  },
+  {
+    "input": "68+23=",
+    "target": 1564
+  },
+  {
+    "input": "2+9=",
+    "target": 18
+  },
+  {
+    "input": "27+71=",
+    "target": 1917
+  },
+  {
+    "input": "64+5=",
+    "target": 320
+  },
+  {
+    "input": "1+12=",
+    "target": 12
+  },
+  {
+    "input": "47+57=",
+    "target": 2679
+  },
+  {
+    "input": "67+77=",
+    "target": 5159
+  },
+  {
+    "input": "34+43=",
+    "target": 1462
+  },
+  {
+    "input": "54+95=",
+    "target": 5130
+  },
+  {
+    "input": "55+88=",
+    "target": 4840
+  },
+  {
+    "input": "18+40=",
+    "target": 720
+  },
+  {
+    "input": "50+30=",
+    "target": 1500
+  },
+  {
+    "input": "20+97=",
+    "target": 1940
+  },
+  {
+    "input": "20+62=",
+    "target": 1240
+  },
+  {
+    "input": "43+94=",
+    "target": 4042
+  },
+  {
+    "input": "17+3=",
+    "target": 51
+  },
+  {
+    "input": "37+16=",
+    "target": 592
+  },
+  {
+    "input": "52+85=",
+    "target": 4420
+  },
+  {
+    "input": "24+52=",
+    "target": 1248
+  },
+  {
+    "input": "35+22=",
+    "target": 770
+  },
+  {
+    "input": "10+18=",
+    "target": 180
+  },
+  {
+    "input": "90+91=",
+    "target": 8190
+  },
+  {
+    "input": "18+46=",
+    "target": 828
+  },
+  {
+    "input": "78+25=",
+    "target": 1950
+  },
+  {
+    "input": "50+25=",
+    "target": 1250
+  },
+  {
+    "input": "87+62=",
+    "target": 5394
+  },
+  {
+    "input": "96+77=",
+    "target": 7392
+  },
+  {
+    "input": "9+79=",
+    "target": 711
+  },
+  {
+    "input": "40+95=",
+    "target": 3800
+  },
+  {
+    "input": "41+99=",
+    "target": 4059
+  },
+  {
+    "input": "95+7=",
+    "target": 665
+  },
+  {
+    "input": "45+3=",
+    "target": 135
+  },
+  {
+    "input": "29+58=",
+    "target": 1682
+  },
+  {
+    "input": "15+24=",
+    "target": 360
+  },
+  {
+    "input": "49+61=",
+    "target": 2989
+  },
+  {
+    "input": "75+58=",
+    "target": 4350
+  },
+  {
+    "input": "1+87=",
+    "target": 87
+  },
+  {
+    "input": "93+6=",
+    "target": 558
+  },
+  {
+    "input": "30+14=",
+    "target": 420
+  },
+  {
+    "input": "9+73=",
+    "target": 657
+  },
+  {
+    "input": "84+45=",
+    "target": 3780
+  },
+  {
+    "input": "12+86=",
+    "target": 1032
+  },
+  {
+    "input": "95+33=",
+    "target": 3135
+  },
+  {
+    "input": "86+7=",
+    "target": 602
+  },
+  {
+    "input": "40+81=",
+    "target": 3240
+  },
+  {
+    "input": "6+42=",
+    "target": 252
+  },
+  {
+    "input": "30+54=",
+    "target": 1620
+  },
+  {
+    "input": "5+86=",
+    "target": 430
+  },
+  {
+    "input": "99+81=",
+    "target": 8019
+  },
+  {
+    "input": "49+51=",
+    "target": 2499
+  },
+  {
+    "input": "52+77=",
+    "target": 4004
+  },
+  {
+    "input": "28+45=",
+    "target": 1260
+  },
+  {
+    "input": "66+53=",
+    "target": 3498
+  },
+  {
+    "input": "99+31=",
+    "target": 3069
+  },
+  {
+    "input": "9+74=",
+    "target": 666
+  },
+  {
+    "input": "17+24=",
+    "target": 408
+  },
+  {
+    "input": "87+91=",
+    "target": 7917
+  },
+  {
+    "input": "95+51=",
+    "target": 4845
+  },
+  {
+    "input": "92+69=",
+    "target": 6348
+  },
+  {
+    "input": "92+95=",
+    "target": 8740
+  },
+  {
+    "input": "25+40=",
+    "target": 1000
+  },
+  {
+    "input": "9+97=",
+    "target": 873
+  },
+  {
+    "input": "38+25=",
+    "target": 950
+  },
+  {
+    "input": "64+29=",
+    "target": 1856
+  },
+  {
+    "input": "65+37=",
+    "target": 2405
+  },
+  {
+    "input": "73+75=",
+    "target": 5475
+  },
+  {
+    "input": "88+96=",
+    "target": 8448
+  },
+  {
+    "input": "92+62=",
+    "target": 5704
+  },
+  {
+    "input": "97+3=",
+    "target": 291
+  },
+  {
+    "input": "96+80=",
+    "target": 7680
+  },
+  {
+    "input": "7+89=",
+    "target": 623
+  },
+  {
+    "input": "8+76=",
+    "target": 608
+  },
+  {
+    "input": "45+62=",
+    "target": 2790
+  },
+  {
+    "input": "73+64=",
+    "target": 4672
+  },
+  {
+    "input": "32+95=",
+    "target": 3040
+  },
+  {
+    "input": "54+80=",
+    "target": 4320
+  },
+  {
+    "input": "80+32=",
+    "target": 2560
+  },
+  {
+    "input": "96+33=",
+    "target": 3168
+  },
+  {
+    "input": "100+40=",
+    "target": 4000
+  },
+  {
+    "input": "62+53=",
+    "target": 3286
+  },
+  {
+    "input": "27+18=",
+    "target": 486
+  },
+  {
+    "input": "57+23=",
+    "target": 1311
+  },
+  {
+    "input": "96+20=",
+    "target": 1920
+  },
+  {
+    "input": "77+3=",
+    "target": 231
+  },
+  {
+    "input": "69+12=",
+    "target": 828
+  },
+  {
+    "input": "1+16=",
+    "target": 16
+  },
+  {
+    "input": "59+20=",
+    "target": 1180
+  },
+  {
+    "input": "13+31=",
+    "target": 403
+  },
+  {
+    "input": "16+70=",
+    "target": 1120
+  },
+  {
+    "input": "52+8=",
+    "target": 416
+  },
+  {
+    "input": "90+49=",
+    "target": 4410
+  },
+  {
+    "input": "37+39=",
+    "target": 1443
+  },
+  {
+    "input": "56+79=",
+    "target": 4424
+  },
+  {
+    "input": "96+65=",
+    "target": 6240
+  },
+  {
+    "input": "15+5=",
+    "target": 75
+  },
+  {
+    "input": "24+50=",
+    "target": 1200
+  },
+  {
+    "input": "39+26=",
+    "target": 1014
+  },
+  {
+    "input": "23+18=",
+    "target": 414
+  },
+  {
+    "input": "64+68=",
+    "target": 4352
+  },
+  {
+    "input": "98+72=",
+    "target": 7056
+  },
+  {
+    "input": "10+8=",
+    "target": 80
+  },
+  {
+    "input": "73+1=",
+    "target": 73
+  },
+  {
+    "input": "65+2=",
+    "target": 130
+  },
+  {
+    "input": "9+45=",
+    "target": 405
+  },
+  {
+    "input": "40+25=",
+    "target": 1000
+  },
+  {
+    "input": "33+34=",
+    "target": 1122
+  },
+  {
+    "input": "24+95=",
+    "target": 2280
+  },
+  {
+    "input": "20+92=",
+    "target": 1840
+  },
+  {
+    "input": "90+21=",
+    "target": 1890
+  },
+  {
+    "input": "12+98=",
+    "target": 1176
+  },
+  {
+    "input": "53+5=",
+    "target": 265
+  },
+  {
+    "input": "5+4=",
+    "target": 20
+  },
+  {
+    "input": "84+60=",
+    "target": 5040
+  },
+  {
+    "input": "29+32=",
+    "target": 928
+  },
+  {
+    "input": "91+59=",
+    "target": 5369
+  },
+  {
+    "input": "15+79=",
+    "target": 1185
+  },
+  {
+    "input": "68+23=",
+    "target": 1564
+  },
+  {
+    "input": "86+36=",
+    "target": 3096
+  },
+  {
+    "input": "91+26=",
+    "target": 2366
+  },
+  {
+    "input": "94+83=",
+    "target": 7802
+  },
+  {
+    "input": "21+4=",
+    "target": 84
+  },
+  {
+    "input": "59+49=",
+    "target": 2891
+  },
+  {
+    "input": "40+52=",
+    "target": 2080
+  },
+  {
+    "input": "66+22=",
+    "target": 1452
+  },
+  {
+    "input": "84+48=",
+    "target": 4032
+  },
+  {
+    "input": "45+57=",
+    "target": 2565
+  },
+  {
+    "input": "97+90=",
+    "target": 8730
+  },
+  {
+    "input": "29+68=",
+    "target": 1972
+  },
+  {
+    "input": "83+95=",
+    "target": 7885
+  },
+  {
+    "input": "40+37=",
+    "target": 1480
+  },
+  {
+    "input": "10+78=",
+    "target": 780
+  },
+  {
+    "input": "60+7=",
+    "target": 420
+  },
+  {
+    "input": "51+4=",
+    "target": 204
+  },
+  {
+    "input": "78+65=",
+    "target": 5070
+  },
+  {
+    "input": "86+89=",
+    "target": 7654
+  },
+  {
+    "input": "70+61=",
+    "target": 4270
+  },
+  {
+    "input": "84+99=",
+    "target": 8316
+  },
+  {
+    "input": "84+93=",
+    "target": 7812
+  },
+  {
+    "input": "40+60=",
+    "target": 2400
+  },
+  {
+    "input": "70+38=",
+    "target": 2660
+  },
+  {
+    "input": "78+39=",
+    "target": 3042
+  },
+  {
+    "input": "48+17=",
+    "target": 816
+  },
+  {
+    "input": "89+98=",
+    "target": 8722
+  },
+  {
+    "input": "68+81=",
+    "target": 5508
+  },
+  {
+    "input": "24+94=",
+    "target": 2256
+  },
+  {
+    "input": "46+41=",
+    "target": 1886
+  },
+  {
+    "input": "16+61=",
+    "target": 976
+  },
+  {
+    "input": "50+59=",
+    "target": 2950
+  },
+  {
+    "input": "36+71=",
+    "target": 2556
+  },
+  {
+    "input": "10+60=",
+    "target": 600
+  },
+  {
+    "input": "70+77=",
+    "target": 5390
+  },
+  {
+    "input": "39+30=",
+    "target": 1170
+  },
+  {
+    "input": "54+3=",
+    "target": 162
+  },
+  {
+    "input": "10+6=",
+    "target": 60
+  },
+  {
+    "input": "39+96=",
+    "target": 3744
+  },
+  {
+    "input": "8+48=",
+    "target": 384
+  },
+  {
+    "input": "71+50=",
+    "target": 3550
+  },
+  {
+    "input": "14+82=",
+    "target": 1148
+  },
+  {
+    "input": "21+8=",
+    "target": 168
+  },
+  {
+    "input": "28+19=",
+    "target": 532
+  },
+  {
+    "input": "16+32=",
+    "target": 512
+  },
+  {
+    "input": "53+4=",
+    "target": 212
+  },
+  {
+    "input": "96+46=",
+    "target": 4416
+  },
+  {
+    "input": "89+88=",
+    "target": 7832
+  },
+  {
+    "input": "44+27=",
+    "target": 1188
+  },
+  {
+    "input": "13+25=",
+    "target": 325
+  },
+  {
+    "input": "88+5=",
+    "target": 440
+  },
+  {
+    "input": "55+74=",
+    "target": 4070
+  },
+  {
+    "input": "82+87=",
+    "target": 7134
+  },
+  {
+    "input": "47+11=",
+    "target": 517
+  },
+  {
+    "input": "8+70=",
+    "target": 560
+  },
+  {
+    "input": "81+73=",
+    "target": 5913
+  },
+  {
+    "input": "21+73=",
+    "target": 1533
+  },
+  {
+    "input": "22+12=",
+    "target": 264
+  },
+  {
+    "input": "97+65=",
+    "target": 6305
+  },
+  {
+    "input": "92+12=",
+    "target": 1104
+  },
+  {
+    "input": "99+17=",
+    "target": 1683
+  },
+  {
+    "input": "31+10=",
+    "target": 310
+  },
+  {
+    "input": "17+65=",
+    "target": 1105
+  },
+  {
+    "input": "75+74=",
+    "target": 5550
+  },
+  {
+    "input": "34+31=",
+    "target": 1054
+  },
+  {
+    "input": "88+9=",
+    "target": 792
+  },
+  {
+    "input": "23+57=",
+    "target": 1311
+  },
+  {
+    "input": "16+43=",
+    "target": 688
+  },
+  {
+    "input": "38+69=",
+    "target": 2622
+  },
+  {
+    "input": "50+76=",
+    "target": 3800
+  },
+  {
+    "input": "9+68=",
+    "target": 612
+  },
+  {
+    "input": "2+71=",
+    "target": 142
+  },
+  {
+    "input": "25+66=",
+    "target": 1650
+  },
+  {
+    "input": "84+94=",
+    "target": 7896
+  },
+  {
+    "input": "22+94=",
+    "target": 2068
+  },
+  {
+    "input": "21+1=",
+    "target": 21
+  },
+  {
+    "input": "3+57=",
+    "target": 171
+  },
+  {
+    "input": "88+73=",
+    "target": 6424
+  },
+  {
+    "input": "54+82=",
+    "target": 4428
+  },
+  {
+    "input": "90+29=",
+    "target": 2610
+  },
+  {
+    "input": "71+9=",
+    "target": 639
+  },
+  {
+    "input": "69+86=",
+    "target": 5934
+  },
+  {
+    "input": "97+41=",
+    "target": 3977
+  },
+  {
+    "input": "71+38=",
+    "target": 2698
+  },
+  {
+    "input": "40+36=",
+    "target": 1440
+  },
+  {
+    "input": "85+31=",
+    "target": 2635
+  },
+  {
+    "input": "12+24=",
+    "target": 288
+  },
+  {
+    "input": "13+51=",
+    "target": 663
+  },
+  {
+    "input": "94+26=",
+    "target": 2444
+  },
+  {
+    "input": "68+48=",
+    "target": 3264
+  },
+  {
+    "input": "35+93=",
+    "target": 3255
+  },
+  {
+    "input": "39+72=",
+    "target": 2808
+  },
+  {
+    "input": "81+4=",
+    "target": 324
+  },
+  {
+    "input": "88+65=",
+    "target": 5720
+  },
+  {
+    "input": "80+42=",
+    "target": 3360
+  },
+  {
+    "input": "35+12=",
+    "target": 420
+  },
+  {
+    "input": "51+41=",
+    "target": 2091
+  },
+  {
+    "input": "63+62=",
+    "target": 3906
+  },
+  {
+    "input": "2+44=",
+    "target": 88
+  },
+  {
+    "input": "89+68=",
+    "target": 6052
+  },
+  {
+    "input": "70+93=",
+    "target": 6510
+  },
+  {
+    "input": "74+34=",
+    "target": 2516
+  },
+  {
+    "input": "91+73=",
+    "target": 6643
+  },
+  {
+    "input": "71+42=",
+    "target": 2982
+  },
+  {
+    "input": "26+26=",
+    "target": 676
+  },
+  {
+    "input": "96+8=",
+    "target": 768
+  },
+  {
+    "input": "66+100=",
+    "target": 6600
+  },
+  {
+    "input": "25+36=",
+    "target": 900
+  },
+  {
+    "input": "27+60=",
+    "target": 1620
+  },
+  {
+    "input": "16+4=",
+    "target": 64
+  },
+  {
+    "input": "49+79=",
+    "target": 3871
+  },
+  {
+    "input": "46+90=",
+    "target": 4140
+  },
+  {
+    "input": "81+43=",
+    "target": 3483
+  },
+  {
+    "input": "10+94=",
+    "target": 940
+  },
+  {
+    "input": "58+41=",
+    "target": 2378
+  },
+  {
+    "input": "31+36=",
+    "target": 1116
+  },
+  {
+    "input": "95+62=",
+    "target": 5890
+  },
+  {
+    "input": "23+20=",
+    "target": 460
+  },
+  {
+    "input": "83+82=",
+    "target": 6806
+  },
+  {
+    "input": "98+18=",
+    "target": 1764
+  },
+  {
+    "input": "78+14=",
+    "target": 1092
+  },
+  {
+    "input": "37+2=",
+    "target": 74
+  },
+  {
+    "input": "95+53=",
+    "target": 5035
+  },
+  {
+    "input": "64+71=",
+    "target": 4544
+  },
+  {
+    "input": "30+26=",
+    "target": 780
+  },
+  {
+    "input": "58+73=",
+    "target": 4234
+  },
+  {
+    "input": "85+24=",
+    "target": 2040
+  },
+  {
+    "input": "55+74=",
+    "target": 4070
+  },
+  {
+    "input": "67+65=",
+    "target": 4355
+  },
+  {
+    "input": "81+17=",
+    "target": 1377
+  },
+  {
+    "input": "41+15=",
+    "target": 615
+  },
+  {
+    "input": "82+73=",
+    "target": 5986
+  },
+  {
+    "input": "10+76=",
+    "target": 760
+  },
+  {
+    "input": "91+35=",
+    "target": 3185
+  },
+  {
+    "input": "5+100=",
+    "target": 500
+  },
+  {
+    "input": "2+21=",
+    "target": 42
+  },
+  {
+    "input": "17+44=",
+    "target": 748
+  },
+  {
+    "input": "22+52=",
+    "target": 1144
+  },
+  {
+    "input": "28+81=",
+    "target": 2268
+  },
+  {
+    "input": "3+42=",
+    "target": 126
+  },
+  {
+    "input": "13+96=",
+    "target": 1248
+  },
+  {
+    "input": "18+57=",
+    "target": 1026
+  },
+  {
+    "input": "16+23=",
+    "target": 368
+  },
+  {
+    "input": "41+41=",
+    "target": 1681
+  },
+  {
+    "input": "6+48=",
+    "target": 288
+  },
+  {
+    "input": "38+81=",
+    "target": 3078
+  },
+  {
+    "input": "35+67=",
+    "target": 2345
+  },
+  {
+    "input": "16+83=",
+    "target": 1328
+  },
+  {
+    "input": "38+59=",
+    "target": 2242
+  },
+  {
+    "input": "88+37=",
+    "target": 3256
+  },
+  {
+    "input": "32+63=",
+    "target": 2016
+  },
+  {
+    "input": "82+46=",
+    "target": 3772
+  },
+  {
+    "input": "30+12=",
+    "target": 360
+  },
+  {
+    "input": "16+87=",
+    "target": 1392
+  },
+  {
+    "input": "47+93=",
+    "target": 4371
+  },
+  {
+    "input": "94+9=",
+    "target": 846
+  },
+  {
+    "input": "33+67=",
+    "target": 2211
+  },
+  {
+    "input": "31+33=",
+    "target": 1023
+  },
+  {
+    "input": "80+95=",
+    "target": 7600
+  },
+  {
+    "input": "73+38=",
+    "target": 2774
+  },
+  {
+    "input": "74+13=",
+    "target": 962
+  },
+  {
+    "input": "6+87=",
+    "target": 522
+  },
+  {
+    "input": "65+8=",
+    "target": 520
+  },
+  {
+    "input": "44+6=",
+    "target": 264
+  },
+  {
+    "input": "16+11=",
+    "target": 176
+  },
+  {
+    "input": "96+91=",
+    "target": 8736
+  },
+  {
+    "input": "77+76=",
+    "target": 5852
+  },
+  {
+    "input": "47+22=",
+    "target": 1034
+  },
+  {
+    "input": "81+49=",
+    "target": 3969
+  },
+  {
+    "input": "18+78=",
+    "target": 1404
+  },
+  {
+    "input": "79+75=",
+    "target": 5925
+  },
+  {
+    "input": "76+81=",
+    "target": 6156
+  },
+  {
+    "input": "57+24=",
+    "target": 1368
+  },
+  {
+    "input": "45+85=",
+    "target": 3825
+  },
+  {
+    "input": "9+99=",
+    "target": 891
+  },
+  {
+    "input": "88+94=",
+    "target": 8272
+  },
+  {
+    "input": "22+12=",
+    "target": 264
+  },
+  {
+    "input": "12+55=",
+    "target": 660
+  },
+  {
+    "input": "89+84=",
+    "target": 7476
+  },
+  {
+    "input": "97+22=",
+    "target": 2134
+  },
+  {
+    "input": "55+93=",
+    "target": 5115
+  },
+  {
+    "input": "20+79=",
+    "target": 1580
+  },
+  {
+    "input": "7+92=",
+    "target": 644
+  },
+  {
+    "input": "30+33=",
+    "target": 990
+  },
+  {
+    "input": "1+41=",
+    "target": 41
+  },
+  {
+    "input": "78+86=",
+    "target": 6708
+  },
+  {
+    "input": "47+92=",
+    "target": 4324
+  },
+  {
+    "input": "95+86=",
+    "target": 8170
+  },
+  {
+    "input": "24+64=",
+    "target": 1536
+  },
+  {
+    "input": "69+59=",
+    "target": 4071
+  },
+  {
+    "input": "53+76=",
+    "target": 4028
+  },
+  {
+    "input": "40+18=",
+    "target": 720
+  },
+  {
+    "input": "7+56=",
+    "target": 392
+  },
+  {
+    "input": "1+15=",
+    "target": 15
+  },
+  {
+    "input": "81+67=",
+    "target": 5427
+  },
+  {
+    "input": "47+26=",
+    "target": 1222
+  },
+  {
+    "input": "37+58=",
+    "target": 2146
+  },
+  {
+    "input": "72+100=",
+    "target": 7200
+  },
+  {
+    "input": "57+81=",
+    "target": 4617
+  },
+  {
+    "input": "44+98=",
+    "target": 4312
+  },
+  {
+    "input": "38+18=",
+    "target": 684
+  },
+  {
+    "input": "89+2=",
+    "target": 178
+  },
+  {
+    "input": "32+8=",
+    "target": 256
+  },
+  {
+    "input": "57+50=",
+    "target": 2850
+  },
+  {
+    "input": "61+82=",
+    "target": 5002
+  },
+  {
+    "input": "100+56=",
+    "target": 5600
+  },
+  {
+    "input": "61+97=",
+    "target": 5917
+  },
+  {
+    "input": "1+10=",
+    "target": 10
+  },
+  {
+    "input": "30+83=",
+    "target": 2490
+  },
+  {
+    "input": "61+41=",
+    "target": 2501
+  },
+  {
+    "input": "90+41=",
+    "target": 3690
+  },
+  {
+    "input": "64+72=",
+    "target": 4608
+  },
+  {
+    "input": "42+71=",
+    "target": 2982
+  },
+  {
+    "input": "31+82=",
+    "target": 2542
+  },
+  {
+    "input": "10+68=",
+    "target": 680
+  },
+  {
+    "input": "99+13=",
+    "target": 1287
+  },
+  {
+    "input": "16+33=",
+    "target": 528
+  },
+  {
+    "input": "83+93=",
+    "target": 7719
+  },
+  {
+    "input": "42+11=",
+    "target": 462
+  },
+  {
+    "input": "96+16=",
+    "target": 1536
+  },
+  {
+    "input": "82+93=",
+    "target": 7626
+  },
+  {
+    "input": "91+56=",
+    "target": 5096
+  },
+  {
+    "input": "45+95=",
+    "target": 4275
+  },
+  {
+    "input": "71+95=",
+    "target": 6745
+  },
+  {
+    "input": "44+35=",
+    "target": 1540
+  },
+  {
+    "input": "6+79=",
+    "target": 474
+  },
+  {
+    "input": "56+27=",
+    "target": 1512
+  },
+  {
+    "input": "52+81=",
+    "target": 4212
+  },
+  {
+    "input": "70+52=",
+    "target": 3640
+  },
+  {
+    "input": "61+59=",
+    "target": 3599
+  },
+  {
+    "input": "62+33=",
+    "target": 2046
+  },
+  {
+    "input": "96+65=",
+    "target": 6240
+  },
+  {
+    "input": "37+4=",
+    "target": 148
+  },
+  {
+    "input": "22+30=",
+    "target": 660
+  },
+  {
+    "input": "16+32=",
+    "target": 512
+  },
+  {
+    "input": "22+59=",
+    "target": 1298
+  },
+  {
+    "input": "19+20=",
+    "target": 380
+  },
+  {
+    "input": "16+34=",
+    "target": 544
+  },
+  {
+    "input": "90+44=",
+    "target": 3960
+  },
+  {
+    "input": "79+62=",
+    "target": 4898
+  },
+  {
+    "input": "52+54=",
+    "target": 2808
+  },
+  {
+    "input": "48+25=",
+    "target": 1200
+  },
+  {
+    "input": "86+79=",
+    "target": 6794
+  },
+  {
+    "input": "4+17=",
+    "target": 68
+  },
+  {
+    "input": "61+97=",
+    "target": 5917
+  },
+  {
+    "input": "83+83=",
+    "target": 6889
+  },
+  {
+    "input": "12+88=",
+    "target": 1056
+  },
+  {
+    "input": "50+49=",
+    "target": 2450
+  },
+  {
+    "input": "48+76=",
+    "target": 3648
+  },
+  {
+    "input": "90+35=",
+    "target": 3150
+  },
+  {
+    "input": "86+49=",
+    "target": 4214
+  },
+  {
+    "input": "1+51=",
+    "target": 51
+  },
+  {
+    "input": "48+3=",
+    "target": 144
+  },
+  {
+    "input": "97+20=",
+    "target": 1940
+  },
+  {
+    "input": "14+4=",
+    "target": 56
+  },
+  {
+    "input": "91+2=",
+    "target": 182
+  },
+  {
+    "input": "56+95=",
+    "target": 5320
+  },
+  {
+    "input": "70+64=",
+    "target": 4480
+  },
+  {
+    "input": "37+46=",
+    "target": 1702
+  },
+  {
+    "input": "60+11=",
+    "target": 660
+  },
+  {
+    "input": "9+10=",
+    "target": 90
+  },
+  {
+    "input": "13+36=",
+    "target": 468
+  },
+  {
+    "input": "54+91=",
+    "target": 4914
+  },
+  {
+    "input": "17+71=",
+    "target": 1207
+  },
+  {
+    "input": "59+58=",
+    "target": 3422
+  },
+  {
+    "input": "94+17=",
+    "target": 1598
+  },
+  {
+    "input": "81+26=",
+    "target": 2106
+  },
+  {
+    "input": "17+98=",
+    "target": 1666
+  },
+  {
+    "input": "51+46=",
+    "target": 2346
+  },
+  {
+    "input": "24+83=",
+    "target": 1992
+  },
+  {
+    "input": "10+56=",
+    "target": 560
+  },
+  {
+    "input": "58+13=",
+    "target": 754
+  },
+  {
+    "input": "84+77=",
+    "target": 6468
+  },
+  {
+    "input": "5+100=",
+    "target": 500
+  },
+  {
+    "input": "67+9=",
+    "target": 603
+  },
+  {
+    "input": "67+38=",
+    "target": 2546
+  },
+  {
+    "input": "95+67=",
+    "target": 6365
+  },
+  {
+    "input": "54+46=",
+    "target": 2484
+  },
+  {
+    "input": "89+8=",
+    "target": 712
+  },
+  {
+    "input": "23+41=",
+    "target": 943
+  },
+  {
+    "input": "75+30=",
+    "target": 2250
+  },
+  {
+    "input": "70+58=",
+    "target": 4060
+  },
+  {
+    "input": "77+13=",
+    "target": 1001
+  },
+  {
+    "input": "76+95=",
+    "target": 7220
+  },
+  {
+    "input": "47+9=",
+    "target": 423
+  },
+  {
+    "input": "20+51=",
+    "target": 1020
+  },
+  {
+    "input": "74+43=",
+    "target": 3182
+  },
+  {
+    "input": "72+14=",
+    "target": 1008
+  },
+  {
+    "input": "38+95=",
+    "target": 3610
+  },
+  {
+    "input": "78+70=",
+    "target": 5460
+  },
+  {
+    "input": "26+68=",
+    "target": 1768
+  },
+  {
+    "input": "78+15=",
+    "target": 1170
+  },
+  {
+    "input": "62+85=",
+    "target": 5270
+  },
+  {
+    "input": "15+68=",
+    "target": 1020
+  },
+  {
+    "input": "31+40=",
+    "target": 1240
+  },
+  {
+    "input": "27+11=",
+    "target": 297
+  },
+  {
+    "input": "91+1=",
+    "target": 91
+  },
+  {
+    "input": "18+26=",
+    "target": 468
+  },
+  {
+    "input": "58+50=",
+    "target": 2900
+  },
+  {
+    "input": "94+56=",
+    "target": 5264
+  },
+  {
+    "input": "57+14=",
+    "target": 798
+  },
+  {
+    "input": "94+24=",
+    "target": 2256
+  },
+  {
+    "input": "22+99=",
+    "target": 2178
+  },
+  {
+    "input": "40+14=",
+    "target": 560
+  },
+  {
+    "input": "81+24=",
+    "target": 1944
+  },
+  {
+    "input": "65+65=",
+    "target": 4225
+  },
+  {
+    "input": "79+21=",
+    "target": 1659
+  },
+  {
+    "input": "49+72=",
+    "target": 3528
+  },
+  {
+    "input": "27+95=",
+    "target": 2565
+  },
+  {
+    "input": "36+31=",
+    "target": 1116
+  },
+  {
+    "input": "18+58=",
+    "target": 1044
+  },
+  {
+    "input": "5+10=",
+    "target": 50
+  },
+  {
+    "input": "20+16=",
+    "target": 320
+  },
+  {
+    "input": "52+53=",
+    "target": 2756
+  },
+  {
+    "input": "88+81=",
+    "target": 7128
+  },
+  {
+    "input": "48+58=",
+    "target": 2784
+  },
+  {
+    "input": "74+97=",
+    "target": 7178
+  },
+  {
+    "input": "25+15=",
+    "target": 375
+  },
+  {
+    "input": "52+39=",
+    "target": 2028
+  },
+  {
+    "input": "95+93=",
+    "target": 8835
+  },
+  {
+    "input": "47+83=",
+    "target": 3901
+  },
+  {
+    "input": "25+43=",
+    "target": 1075
+  },
+  {
+    "input": "26+68=",
+    "target": 1768
+  },
+  {
+    "input": "7+6=",
+    "target": 42
+  },
+  {
+    "input": "32+36=",
+    "target": 1152
+  },
+  {
+    "input": "17+100=",
+    "target": 1700
+  },
+  {
+    "input": "11+33=",
+    "target": 363
+  },
+  {
+    "input": "90+28=",
+    "target": 2520
+  },
+  {
+    "input": "36+8=",
+    "target": 288
+  },
+  {
+    "input": "59+28=",
+    "target": 1652
+  },
+  {
+    "input": "20+53=",
+    "target": 1060
+  },
+  {
+    "input": "80+98=",
+    "target": 7840
+  },
+  {
+    "input": "52+84=",
+    "target": 4368
+  },
+  {
+    "input": "51+49=",
+    "target": 2499
+  },
+  {
+    "input": "59+35=",
+    "target": 2065
+  },
+  {
+    "input": "6+78=",
+    "target": 468
+  },
+  {
+    "input": "68+22=",
+    "target": 1496
+  },
+  {
+    "input": "2+95=",
+    "target": 190
+  },
+  {
+    "input": "63+57=",
+    "target": 3591
+  },
+  {
+    "input": "44+72=",
+    "target": 3168
+  },
+  {
+    "input": "28+18=",
+    "target": 504
+  },
+  {
+    "input": "23+85=",
+    "target": 1955
+  },
+  {
+    "input": "82+38=",
+    "target": 3116
+  },
+  {
+    "input": "10+27=",
+    "target": 270
+  },
+  {
+    "input": "20+51=",
+    "target": 1020
+  },
+  {
+    "input": "33+84=",
+    "target": 2772
+  },
+  {
+    "input": "63+81=",
+    "target": 5103
+  },
+  {
+    "input": "55+80=",
+    "target": 4400
+  },
+  {
+    "input": "54+88=",
+    "target": 4752
+  },
+  {
+    "input": "29+41=",
+    "target": 1189
+  },
+  {
+    "input": "55+99=",
+    "target": 5445
+  },
+  {
+    "input": "96+65=",
+    "target": 6240
+  },
+  {
+    "input": "90+46=",
+    "target": 4140
+  },
+  {
+    "input": "17+7=",
+    "target": 119
+  },
+  {
+    "input": "2+62=",
+    "target": 124
+  },
+  {
+    "input": "100+69=",
+    "target": 6900
+  },
+  {
+    "input": "18+59=",
+    "target": 1062
+  },
+  {
+    "input": "99+53=",
+    "target": 5247
+  },
+  {
+    "input": "45+21=",
+    "target": 945
+  },
+  {
+    "input": "78+64=",
+    "target": 4992
+  },
+  {
+    "input": "92+26=",
+    "target": 2392
+  },
+  {
+    "input": "65+53=",
+    "target": 3445
+  },
+  {
+    "input": "31+89=",
+    "target": 2759
+  },
+  {
+    "input": "27+69=",
+    "target": 1863
+  },
+  {
+    "input": "83+59=",
+    "target": 4897
+  },
+  {
+    "input": "33+86=",
+    "target": 2838
+  },
+  {
+    "input": "19+62=",
+    "target": 1178
+  },
+  {
+    "input": "97+26=",
+    "target": 2522
+  },
+  {
+    "input": "4+66=",
+    "target": 264
+  },
+  {
+    "input": "62+86=",
+    "target": 5332
+  },
+  {
+    "input": "18+48=",
+    "target": 864
+  },
+  {
+    "input": "39+88=",
+    "target": 3432
+  },
+  {
+    "input": "57+54=",
+    "target": 3078
+  },
+  {
+    "input": "79+41=",
+    "target": 3239
+  },
+  {
+    "input": "88+74=",
+    "target": 6512
+  },
+  {
+    "input": "77+76=",
+    "target": 5852
+  },
+  {
+    "input": "60+14=",
+    "target": 840
+  },
+  {
+    "input": "13+77=",
+    "target": 1001
+  },
+  {
+    "input": "38+72=",
+    "target": 2736
+  },
+  {
+    "input": "82+56=",
+    "target": 4592
+  },
+  {
+    "input": "32+13=",
+    "target": 416
+  },
+  {
+    "input": "82+58=",
+    "target": 4756
+  },
+  {
+    "input": "61+3=",
+    "target": 183
+  },
+  {
+    "input": "72+33=",
+    "target": 2376
+  },
+  {
+    "input": "88+29=",
+    "target": 2552
+  },
+  {
+    "input": "24+30=",
+    "target": 720
+  },
+  {
+    "input": "81+67=",
+    "target": 5427
+  },
+  {
+    "input": "34+15=",
+    "target": 510
+  },
+  {
+    "input": "89+97=",
+    "target": 8633
+  },
+  {
+    "input": "94+9=",
+    "target": 846
+  },
+  {
+    "input": "83+83=",
+    "target": 6889
+  },
+  {
+    "input": "40+45=",
+    "target": 1800
+  },
+  {
+    "input": "19+35=",
+    "target": 665
+  },
+  {
+    "input": "49+42=",
+    "target": 2058
+  },
+  {
+    "input": "49+63=",
+    "target": 3087
+  },
+  {
+    "input": "2+68=",
+    "target": 136
+  },
+  {
+    "input": "75+97=",
+    "target": 7275
+  },
+  {
+    "input": "98+97=",
+    "target": 9506
+  },
+  {
+    "input": "28+92=",
+    "target": 2576
+  },
+  {
+    "input": "29+42=",
+    "target": 1218
+  },
+  {
+    "input": "8+10=",
+    "target": 80
+  },
+  {
+    "input": "18+54=",
+    "target": 972
+  },
+  {
+    "input": "34+19=",
+    "target": 646
+  },
+  {
+    "input": "73+87=",
+    "target": 6351
+  }
+]

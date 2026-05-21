@@ -1,0 +1,4002 @@
+[
+  {
+    "input": "88+13=",
+    "target": 101
+  },
+  {
+    "input": "14+68=",
+    "target": 82
+  },
+  {
+    "input": "3+82=",
+    "target": 85
+  },
+  {
+    "input": "80+85=",
+    "target": 165
+  },
+  {
+    "input": "96+17=",
+    "target": 113
+  },
+  {
+    "input": "42+10=",
+    "target": 52
+  },
+  {
+    "input": "28+26=",
+    "target": 54
+  },
+  {
+    "input": "22+36=",
+    "target": 58
+  },
+  {
+    "input": "95+28=",
+    "target": 123
+  },
+  {
+    "input": "26+51=",
+    "target": 77
+  },
+  {
+    "input": "27+59=",
+    "target": 86
+  },
+  {
+    "input": "100+79=",
+    "target": 179
+  },
+  {
+    "input": "30+35=",
+    "target": 65
+  },
+  {
+    "input": "32+86=",
+    "target": 118
+  },
+  {
+    "input": "36+62=",
+    "target": 98
+  },
+  {
+    "input": "12+90=",
+    "target": 102
+  },
+  {
+    "input": "32+98=",
+    "target": 130
+  },
+  {
+    "input": "100+23=",
+    "target": 123
+  },
+  {
+    "input": "82+58=",
+    "target": 140
+  },
+  {
+    "input": "42+53=",
+    "target": 95
+  },
+  {
+    "input": "69+11=",
+    "target": 80
+  },
+  {
+    "input": "88+67=",
+    "target": 155
+  },
+  {
+    "input": "74+62=",
+    "target": 136
+  },
+  {
+    "input": "51+62=",
+    "target": 113
+  },
+  {
+    "input": "71+30=",
+    "target": 101
+  },
+  {
+    "input": "75+35=",
+    "target": 110
+  },
+  {
+    "input": "94+96=",
+    "target": 190
+  },
+  {
+    "input": "22+9=",
+    "target": 31
+  },
+  {
+    "input": "27+39=",
+    "target": 66
+  },
+  {
+    "input": "53+76=",
+    "target": 129
+  },
+  {
+    "input": "69+39=",
+    "target": 108
+  },
+  {
+    "input": "18+88=",
+    "target": 106
+  },
+  {
+    "input": "76+54=",
+    "target": 130
+  },
+  {
+    "input": "36+58=",
+    "target": 94
+  },
+  {
+    "input": "90+64=",
+    "target": 154
+  },
+  {
+    "input": "13+27=",
+    "target": 40
+  },
+  {
+    "input": "68+26=",
+    "target": 94
+  },
+  {
+    "input": "78+83=",
+    "target": 161
+  },
+  {
+    "input": "29+62=",
+    "target": 91
+  },
+  {
+    "input": "70+11=",
+    "target": 81
+  },
+  {
+    "input": "67+22=",
+    "target": 89
+  },
+  {
+    "input": "47+90=",
+    "target": 137
+  },
+  {
+    "input": "96+11=",
+    "target": 107
+  },
+  {
+    "input": "69+57=",
+    "target": 126
+  },
+  {
+    "input": "20+24=",
+    "target": 44
+  },
+  {
+    "input": "9+35=",
+    "target": 44
+  },
+  {
+    "input": "55+76=",
+    "target": 131
+  },
+  {
+    "input": "13+72=",
+    "target": 85
+  },
+  {
+    "input": "60+4=",
+    "target": 64
+  },
+  {
+    "input": "99+4=",
+    "target": 103
+  },
+  {
+    "input": "18+83=",
+    "target": 101
+  },
+  {
+    "input": "13+48=",
+    "target": 61
+  },
+  {
+    "input": "37+78=",
+    "target": 115
+  },
+  {
+    "input": "78+66=",
+    "target": 144
+  },
+  {
+    "input": "47+24=",
+    "target": 71
+  },
+  {
+    "input": "38+70=",
+    "target": 108
+  },
+  {
+    "input": "71+35=",
+    "target": 106
+  },
+  {
+    "input": "66+19=",
+    "target": 85
+  },
+  {
+    "input": "81+85=",
+    "target": 166
+  },
+  {
+    "input": "38+98=",
+    "target": 136
+  },
+  {
+    "input": "97+46=",
+    "target": 143
+  },
+  {
+    "input": "23+24=",
+    "target": 47
+  },
+  {
+    "input": "53+95=",
+    "target": 148
+  },
+  {
+    "input": "5+49=",
+    "target": 54
+  },
+  {
+    "input": "4+12=",
+    "target": 16
+  },
+  {
+    "input": "39+68=",
+    "target": 107
+  },
+  {
+    "input": "91+80=",
+    "target": 171
+  },
+  {
+    "input": "11+23=",
+    "target": 34
+  },
+  {
+    "input": "22+34=",
+    "target": 56
+  },
+  {
+    "input": "94+27=",
+    "target": 121
+  },
+  {
+    "input": "74+49=",
+    "target": 123
+  },
+  {
+    "input": "40+26=",
+    "target": 66
+  },
+  {
+    "input": "97+36=",
+    "target": 133
+  },
+  {
+    "input": "72+83=",
+    "target": 155
+  },
+  {
+    "input": "62+69=",
+    "target": 131
+  },
+  {
+    "input": "93+61=",
+    "target": 154
+  },
+  {
+    "input": "65+96=",
+    "target": 161
+  },
+  {
+    "input": "9+58=",
+    "target": 67
+  },
+  {
+    "input": "33+73=",
+    "target": 106
+  },
+  {
+    "input": "31+77=",
+    "target": 108
+  },
+  {
+    "input": "39+85=",
+    "target": 124
+  },
+  {
+    "input": "66+98=",
+    "target": 164
+  },
+  {
+    "input": "45+39=",
+    "target": 84
+  },
+  {
+    "input": "50+12=",
+    "target": 62
+  },
+  {
+    "input": "54+36=",
+    "target": 90
+  },
+  {
+    "input": "49+44=",
+    "target": 93
+  },
+  {
+    "input": "48+69=",
+    "target": 117
+  },
+  {
+    "input": "8+9=",
+    "target": 17
+  },
+  {
+    "input": "21+71=",
+    "target": 92
+  },
+  {
+    "input": "41+70=",
+    "target": 111
+  },
+  {
+    "input": "4+8=",
+    "target": 12
+  },
+  {
+    "input": "76+76=",
+    "target": 152
+  },
+  {
+    "input": "38+6=",
+    "target": 44
+  },
+  {
+    "input": "38+81=",
+    "target": 119
+  },
+  {
+    "input": "61+75=",
+    "target": 136
+  },
+  {
+    "input": "92+56=",
+    "target": 148
+  },
+  {
+    "input": "36+23=",
+    "target": 59
+  },
+  {
+    "input": "100+45=",
+    "target": 145
+  },
+  {
+    "input": "67+18=",
+    "target": 85
+  },
+  {
+    "input": "91+68=",
+    "target": 159
+  },
+  {
+    "input": "93+87=",
+    "target": 180
+  },
+  {
+    "input": "33+76=",
+    "target": 109
+  },
+  {
+    "input": "69+12=",
+    "target": 81
+  },
+  {
+    "input": "79+33=",
+    "target": 112
+  },
+  {
+    "input": "20+41=",
+    "target": 61
+  },
+  {
+    "input": "76+16=",
+    "target": 92
+  },
+  {
+    "input": "85+12=",
+    "target": 97
+  },
+  {
+    "input": "82+40=",
+    "target": 122
+  },
+  {
+    "input": "76+28=",
+    "target": 104
+  },
+  {
+    "input": "88+88=",
+    "target": 176
+  },
+  {
+    "input": "40+68=",
+    "target": 108
+  },
+  {
+    "input": "45+47=",
+    "target": 92
+  },
+  {
+    "input": "56+41=",
+    "target": 97
+  },
+  {
+    "input": "77+47=",
+    "target": 124
+  },
+  {
+    "input": "70+97=",
+    "target": 167
+  },
+  {
+    "input": "86+100=",
+    "target": 186
+  },
+  {
+    "input": "30+25=",
+    "target": 55
+  },
+  {
+    "input": "10+90=",
+    "target": 100
+  },
+  {
+    "input": "82+11=",
+    "target": 93
+  },
+  {
+    "input": "50+17=",
+    "target": 67
+  },
+  {
+    "input": "14+8=",
+    "target": 22
+  },
+  {
+    "input": "50+62=",
+    "target": 112
+  },
+  {
+    "input": "83+68=",
+    "target": 151
+  },
+  {
+    "input": "72+73=",
+    "target": 145
+  },
+  {
+    "input": "64+48=",
+    "target": 112
+  },
+  {
+    "input": "70+46=",
+    "target": 116
+  },
+  {
+    "input": "7+73=",
+    "target": 80
+  },
+  {
+    "input": "94+85=",
+    "target": 179
+  },
+  {
+    "input": "49+76=",
+    "target": 125
+  },
+  {
+    "input": "58+47=",
+    "target": 105
+  },
+  {
+    "input": "95+54=",
+    "target": 149
+  },
+  {
+    "input": "48+22=",
+    "target": 70
+  },
+  {
+    "input": "16+68=",
+    "target": 84
+  },
+  {
+    "input": "4+54=",
+    "target": 58
+  },
+  {
+    "input": "41+94=",
+    "target": 135
+  },
+  {
+    "input": "28+4=",
+    "target": 32
+  },
+  {
+    "input": "23+54=",
+    "target": 77
+  },
+  {
+    "input": "25+52=",
+    "target": 77
+  },
+  {
+    "input": "45+87=",
+    "target": 132
+  },
+  {
+    "input": "44+74=",
+    "target": 118
+  },
+  {
+    "input": "7+81=",
+    "target": 88
+  },
+  {
+    "input": "35+21=",
+    "target": 56
+  },
+  {
+    "input": "25+37=",
+    "target": 62
+  },
+  {
+    "input": "75+86=",
+    "target": 161
+  },
+  {
+    "input": "94+87=",
+    "target": 181
+  },
+  {
+    "input": "6+71=",
+    "target": 77
+  },
+  {
+    "input": "82+53=",
+    "target": 135
+  },
+  {
+    "input": "88+14=",
+    "target": 102
+  },
+  {
+    "input": "25+35=",
+    "target": 60
+  },
+  {
+    "input": "90+41=",
+    "target": 131
+  },
+  {
+    "input": "70+58=",
+    "target": 128
+  },
+  {
+    "input": "76+68=",
+    "target": 144
+  },
+  {
+    "input": "53+61=",
+    "target": 114
+  },
+  {
+    "input": "80+65=",
+    "target": 145
+  },
+  {
+    "input": "85+99=",
+    "target": 184
+  },
+  {
+    "input": "69+45=",
+    "target": 114
+  },
+  {
+    "input": "22+87=",
+    "target": 109
+  },
+  {
+    "input": "8+71=",
+    "target": 79
+  },
+  {
+    "input": "75+90=",
+    "target": 165
+  },
+  {
+    "input": "42+77=",
+    "target": 119
+  },
+  {
+    "input": "4+8=",
+    "target": 12
+  },
+  {
+    "input": "80+22=",
+    "target": 102
+  },
+  {
+    "input": "24+68=",
+    "target": 92
+  },
+  {
+    "input": "12+1=",
+    "target": 13
+  },
+  {
+    "input": "62+62=",
+    "target": 124
+  },
+  {
+    "input": "31+48=",
+    "target": 79
+  },
+  {
+    "input": "21+66=",
+    "target": 87
+  },
+  {
+    "input": "48+67=",
+    "target": 115
+  },
+  {
+    "input": "97+74=",
+    "target": 171
+  },
+  {
+    "input": "68+33=",
+    "target": 101
+  },
+  {
+    "input": "5+96=",
+    "target": 101
+  },
+  {
+    "input": "35+62=",
+    "target": 97
+  },
+  {
+    "input": "93+80=",
+    "target": 173
+  },
+  {
+    "input": "9+78=",
+    "target": 87
+  },
+  {
+    "input": "2+58=",
+    "target": 60
+  },
+  {
+    "input": "2+98=",
+    "target": 100
+  },
+  {
+    "input": "29+89=",
+    "target": 118
+  },
+  {
+    "input": "67+1=",
+    "target": 68
+  },
+  {
+    "input": "99+52=",
+    "target": 151
+  },
+  {
+    "input": "48+90=",
+    "target": 138
+  },
+  {
+    "input": "69+56=",
+    "target": 125
+  },
+  {
+    "input": "23+65=",
+    "target": 88
+  },
+  {
+    "input": "32+90=",
+    "target": 122
+  },
+  {
+    "input": "73+14=",
+    "target": 87
+  },
+  {
+    "input": "97+79=",
+    "target": 176
+  },
+  {
+    "input": "74+98=",
+    "target": 172
+  },
+  {
+    "input": "35+64=",
+    "target": 99
+  },
+  {
+    "input": "40+44=",
+    "target": 84
+  },
+  {
+    "input": "81+15=",
+    "target": 96
+  },
+  {
+    "input": "89+50=",
+    "target": 139
+  },
+  {
+    "input": "80+74=",
+    "target": 154
+  },
+  {
+    "input": "32+59=",
+    "target": 91
+  },
+  {
+    "input": "91+69=",
+    "target": 160
+  },
+  {
+    "input": "2+64=",
+    "target": 66
+  },
+  {
+    "input": "27+100=",
+    "target": 127
+  },
+  {
+    "input": "67+7=",
+    "target": 74
+  },
+  {
+    "input": "53+95=",
+    "target": 148
+  },
+  {
+    "input": "16+43=",
+    "target": 59
+  },
+  {
+    "input": "69+23=",
+    "target": 92
+  },
+  {
+    "input": "88+30=",
+    "target": 118
+  },
+  {
+    "input": "61+9=",
+    "target": 70
+  },
+  {
+    "input": "37+8=",
+    "target": 45
+  },
+  {
+    "input": "62+84=",
+    "target": 146
+  },
+  {
+    "input": "66+34=",
+    "target": 100
+  },
+  {
+    "input": "82+59=",
+    "target": 141
+  },
+  {
+    "input": "4+43=",
+    "target": 47
+  },
+  {
+    "input": "23+18=",
+    "target": 41
+  },
+  {
+    "input": "69+97=",
+    "target": 166
+  },
+  {
+    "input": "59+8=",
+    "target": 67
+  },
+  {
+    "input": "100+46=",
+    "target": 146
+  },
+  {
+    "input": "72+15=",
+    "target": 87
+  },
+  {
+    "input": "71+83=",
+    "target": 154
+  },
+  {
+    "input": "79+84=",
+    "target": 163
+  },
+  {
+    "input": "92+39=",
+    "target": 131
+  },
+  {
+    "input": "88+74=",
+    "target": 162
+  },
+  {
+    "input": "3+62=",
+    "target": 65
+  },
+  {
+    "input": "99+39=",
+    "target": 138
+  },
+  {
+    "input": "26+63=",
+    "target": 89
+  },
+  {
+    "input": "4+22=",
+    "target": 26
+  },
+  {
+    "input": "35+78=",
+    "target": 113
+  },
+  {
+    "input": "20+80=",
+    "target": 100
+  },
+  {
+    "input": "52+10=",
+    "target": 62
+  },
+  {
+    "input": "16+94=",
+    "target": 110
+  },
+  {
+    "input": "94+38=",
+    "target": 132
+  },
+  {
+    "input": "46+85=",
+    "target": 131
+  },
+  {
+    "input": "52+60=",
+    "target": 112
+  },
+  {
+    "input": "37+69=",
+    "target": 106
+  },
+  {
+    "input": "50+13=",
+    "target": 63
+  },
+  {
+    "input": "1+42=",
+    "target": 43
+  },
+  {
+    "input": "32+21=",
+    "target": 53
+  },
+  {
+    "input": "35+50=",
+    "target": 85
+  },
+  {
+    "input": "93+37=",
+    "target": 130
+  },
+  {
+    "input": "10+37=",
+    "target": 47
+  },
+  {
+    "input": "96+71=",
+    "target": 167
+  },
+  {
+    "input": "3+50=",
+    "target": 53
+  },
+  {
+    "input": "13+45=",
+    "target": 58
+  },
+  {
+    "input": "47+25=",
+    "target": 72
+  },
+  {
+    "input": "87+21=",
+    "target": 108
+  },
+  {
+    "input": "90+57=",
+    "target": 147
+  },
+  {
+    "input": "94+42=",
+    "target": 136
+  },
+  {
+    "input": "37+94=",
+    "target": 131
+  },
+  {
+    "input": "76+55=",
+    "target": 131
+  },
+  {
+    "input": "61+96=",
+    "target": 157
+  },
+  {
+    "input": "19+98=",
+    "target": 117
+  },
+  {
+    "input": "79+76=",
+    "target": 155
+  },
+  {
+    "input": "69+69=",
+    "target": 138
+  },
+  {
+    "input": "30+74=",
+    "target": 104
+  },
+  {
+    "input": "17+41=",
+    "target": 58
+  },
+  {
+    "input": "64+44=",
+    "target": 108
+  },
+  {
+    "input": "45+11=",
+    "target": 56
+  },
+  {
+    "input": "32+57=",
+    "target": 89
+  },
+  {
+    "input": "82+25=",
+    "target": 107
+  },
+  {
+    "input": "53+24=",
+    "target": 77
+  },
+  {
+    "input": "67+68=",
+    "target": 135
+  },
+  {
+    "input": "39+34=",
+    "target": 73
+  },
+  {
+    "input": "93+92=",
+    "target": 185
+  },
+  {
+    "input": "97+77=",
+    "target": 174
+  },
+  {
+    "input": "10+49=",
+    "target": 59
+  },
+  {
+    "input": "39+54=",
+    "target": 93
+  },
+  {
+    "input": "92+64=",
+    "target": 156
+  },
+  {
+    "input": "31+16=",
+    "target": 47
+  },
+  {
+    "input": "45+5=",
+    "target": 50
+  },
+  {
+    "input": "64+86=",
+    "target": 150
+  },
+  {
+    "input": "51+44=",
+    "target": 95
+  },
+  {
+    "input": "12+63=",
+    "target": 75
+  },
+  {
+    "input": "49+27=",
+    "target": 76
+  },
+  {
+    "input": "61+21=",
+    "target": 82
+  },
+  {
+    "input": "93+22=",
+    "target": 115
+  },
+  {
+    "input": "87+42=",
+    "target": 129
+  },
+  {
+    "input": "79+23=",
+    "target": 102
+  },
+  {
+    "input": "46+16=",
+    "target": 62
+  },
+  {
+    "input": "44+14=",
+    "target": 58
+  },
+  {
+    "input": "20+68=",
+    "target": 88
+  },
+  {
+    "input": "87+47=",
+    "target": 134
+  },
+  {
+    "input": "90+23=",
+    "target": 113
+  },
+  {
+    "input": "91+78=",
+    "target": 169
+  },
+  {
+    "input": "14+5=",
+    "target": 19
+  },
+  {
+    "input": "61+49=",
+    "target": 110
+  },
+  {
+    "input": "28+43=",
+    "target": 71
+  },
+  {
+    "input": "6+31=",
+    "target": 37
+  },
+  {
+    "input": "97+58=",
+    "target": 155
+  },
+  {
+    "input": "40+73=",
+    "target": 113
+  },
+  {
+    "input": "56+4=",
+    "target": 60
+  },
+  {
+    "input": "24+68=",
+    "target": 92
+  },
+  {
+    "input": "67+58=",
+    "target": 125
+  },
+  {
+    "input": "9+41=",
+    "target": 50
+  },
+  {
+    "input": "12+12=",
+    "target": 24
+  },
+  {
+    "input": "22+65=",
+    "target": 87
+  },
+  {
+    "input": "91+93=",
+    "target": 184
+  },
+  {
+    "input": "42+12=",
+    "target": 54
+  },
+  {
+    "input": "34+71=",
+    "target": 105
+  },
+  {
+    "input": "43+83=",
+    "target": 126
+  },
+  {
+    "input": "100+88=",
+    "target": 188
+  },
+  {
+    "input": "34+98=",
+    "target": 132
+  },
+  {
+    "input": "37+1=",
+    "target": 38
+  },
+  {
+    "input": "18+91=",
+    "target": 109
+  },
+  {
+    "input": "63+75=",
+    "target": 138
+  },
+  {
+    "input": "55+19=",
+    "target": 74
+  },
+  {
+    "input": "91+65=",
+    "target": 156
+  },
+  {
+    "input": "94+45=",
+    "target": 139
+  },
+  {
+    "input": "35+98=",
+    "target": 133
+  },
+  {
+    "input": "83+36=",
+    "target": 119
+  },
+  {
+    "input": "92+83=",
+    "target": 175
+  },
+  {
+    "input": "36+79=",
+    "target": 115
+  },
+  {
+    "input": "41+19=",
+    "target": 60
+  },
+  {
+    "input": "37+60=",
+    "target": 97
+  },
+  {
+    "input": "18+8=",
+    "target": 26
+  },
+  {
+    "input": "63+71=",
+    "target": 134
+  },
+  {
+    "input": "5+33=",
+    "target": 38
+  },
+  {
+    "input": "7+86=",
+    "target": 93
+  },
+  {
+    "input": "98+32=",
+    "target": 130
+  },
+  {
+    "input": "83+61=",
+    "target": 144
+  },
+  {
+    "input": "18+38=",
+    "target": 56
+  },
+  {
+    "input": "42+25=",
+    "target": 67
+  },
+  {
+    "input": "2+70=",
+    "target": 72
+  },
+  {
+    "input": "49+88=",
+    "target": 137
+  },
+  {
+    "input": "2+60=",
+    "target": 62
+  },
+  {
+    "input": "59+55=",
+    "target": 114
+  },
+  {
+    "input": "2+16=",
+    "target": 18
+  },
+  {
+    "input": "73+75=",
+    "target": 148
+  },
+  {
+    "input": "93+67=",
+    "target": 160
+  },
+  {
+    "input": "5+14=",
+    "target": 19
+  },
+  {
+    "input": "42+23=",
+    "target": 65
+  },
+  {
+    "input": "19+21=",
+    "target": 40
+  },
+  {
+    "input": "17+75=",
+    "target": 92
+  },
+  {
+    "input": "6+20=",
+    "target": 26
+  },
+  {
+    "input": "29+45=",
+    "target": 74
+  },
+  {
+    "input": "21+94=",
+    "target": 115
+  },
+  {
+    "input": "5+57=",
+    "target": 62
+  },
+  {
+    "input": "74+81=",
+    "target": 155
+  },
+  {
+    "input": "28+5=",
+    "target": 33
+  },
+  {
+    "input": "10+30=",
+    "target": 40
+  },
+  {
+    "input": "29+40=",
+    "target": 69
+  },
+  {
+    "input": "68+5=",
+    "target": 73
+  },
+  {
+    "input": "5+80=",
+    "target": 85
+  },
+  {
+    "input": "87+52=",
+    "target": 139
+  },
+  {
+    "input": "41+63=",
+    "target": 104
+  },
+  {
+    "input": "59+2=",
+    "target": 61
+  },
+  {
+    "input": "82+90=",
+    "target": 172
+  },
+  {
+    "input": "20+71=",
+    "target": 91
+  },
+  {
+    "input": "85+84=",
+    "target": 169
+  },
+  {
+    "input": "42+59=",
+    "target": 101
+  },
+  {
+    "input": "4+99=",
+    "target": 103
+  },
+  {
+    "input": "54+67=",
+    "target": 121
+  },
+  {
+    "input": "70+6=",
+    "target": 76
+  },
+  {
+    "input": "38+73=",
+    "target": 111
+  },
+  {
+    "input": "99+21=",
+    "target": 120
+  },
+  {
+    "input": "14+48=",
+    "target": 62
+  },
+  {
+    "input": "26+99=",
+    "target": 125
+  },
+  {
+    "input": "80+91=",
+    "target": 171
+  },
+  {
+    "input": "69+63=",
+    "target": 132
+  },
+  {
+    "input": "26+72=",
+    "target": 98
+  },
+  {
+    "input": "10+47=",
+    "target": 57
+  },
+  {
+    "input": "35+21=",
+    "target": 56
+  },
+  {
+    "input": "22+12=",
+    "target": 34
+  },
+  {
+    "input": "46+23=",
+    "target": 69
+  },
+  {
+    "input": "75+46=",
+    "target": 121
+  },
+  {
+    "input": "18+96=",
+    "target": 114
+  },
+  {
+    "input": "89+70=",
+    "target": 159
+  },
+  {
+    "input": "34+14=",
+    "target": 48
+  },
+  {
+    "input": "54+83=",
+    "target": 137
+  },
+  {
+    "input": "14+39=",
+    "target": 53
+  },
+  {
+    "input": "81+61=",
+    "target": 142
+  },
+  {
+    "input": "17+28=",
+    "target": 45
+  },
+  {
+    "input": "40+85=",
+    "target": 125
+  },
+  {
+    "input": "86+79=",
+    "target": 165
+  },
+  {
+    "input": "27+82=",
+    "target": 109
+  },
+  {
+    "input": "71+64=",
+    "target": 135
+  },
+  {
+    "input": "86+10=",
+    "target": 96
+  },
+  {
+    "input": "82+99=",
+    "target": 181
+  },
+  {
+    "input": "80+3=",
+    "target": 83
+  },
+  {
+    "input": "47+18=",
+    "target": 65
+  },
+  {
+    "input": "96+74=",
+    "target": 170
+  },
+  {
+    "input": "87+31=",
+    "target": 118
+  },
+  {
+    "input": "8+12=",
+    "target": 20
+  },
+  {
+    "input": "100+76=",
+    "target": 176
+  },
+  {
+    "input": "20+91=",
+    "target": 111
+  },
+  {
+    "input": "68+43=",
+    "target": 111
+  },
+  {
+    "input": "64+25=",
+    "target": 89
+  },
+  {
+    "input": "2+62=",
+    "target": 64
+  },
+  {
+    "input": "75+61=",
+    "target": 136
+  },
+  {
+    "input": "77+39=",
+    "target": 116
+  },
+  {
+    "input": "26+86=",
+    "target": 112
+  },
+  {
+    "input": "53+75=",
+    "target": 128
+  },
+  {
+    "input": "27+73=",
+    "target": 100
+  },
+  {
+    "input": "71+75=",
+    "target": 146
+  },
+  {
+    "input": "58+74=",
+    "target": 132
+  },
+  {
+    "input": "95+22=",
+    "target": 117
+  },
+  {
+    "input": "92+94=",
+    "target": 186
+  },
+  {
+    "input": "85+74=",
+    "target": 159
+  },
+  {
+    "input": "30+18=",
+    "target": 48
+  },
+  {
+    "input": "75+25=",
+    "target": 100
+  },
+  {
+    "input": "99+60=",
+    "target": 159
+  },
+  {
+    "input": "50+2=",
+    "target": 52
+  },
+  {
+    "input": "93+36=",
+    "target": 129
+  },
+  {
+    "input": "6+98=",
+    "target": 104
+  },
+  {
+    "input": "81+15=",
+    "target": 96
+  },
+  {
+    "input": "38+22=",
+    "target": 60
+  },
+  {
+    "input": "7+15=",
+    "target": 22
+  },
+  {
+    "input": "88+37=",
+    "target": 125
+  },
+  {
+    "input": "99+6=",
+    "target": 105
+  },
+  {
+    "input": "29+63=",
+    "target": 92
+  },
+  {
+    "input": "76+97=",
+    "target": 173
+  },
+  {
+    "input": "6+49=",
+    "target": 55
+  },
+  {
+    "input": "37+26=",
+    "target": 63
+  },
+  {
+    "input": "79+14=",
+    "target": 93
+  },
+  {
+    "input": "23+51=",
+    "target": 74
+  },
+  {
+    "input": "97+99=",
+    "target": 196
+  },
+  {
+    "input": "9+49=",
+    "target": 58
+  },
+  {
+    "input": "95+88=",
+    "target": 183
+  },
+  {
+    "input": "54+19=",
+    "target": 73
+  },
+  {
+    "input": "39+15=",
+    "target": 54
+  },
+  {
+    "input": "38+68=",
+    "target": 106
+  },
+  {
+    "input": "43+23=",
+    "target": 66
+  },
+  {
+    "input": "60+88=",
+    "target": 148
+  },
+  {
+    "input": "41+87=",
+    "target": 128
+  },
+  {
+    "input": "71+8=",
+    "target": 79
+  },
+  {
+    "input": "26+31=",
+    "target": 57
+  },
+  {
+    "input": "51+95=",
+    "target": 146
+  },
+  {
+    "input": "92+52=",
+    "target": 144
+  },
+  {
+    "input": "8+72=",
+    "target": 80
+  },
+  {
+    "input": "1+25=",
+    "target": 26
+  },
+  {
+    "input": "82+42=",
+    "target": 124
+  },
+  {
+    "input": "31+40=",
+    "target": 71
+  },
+  {
+    "input": "34+19=",
+    "target": 53
+  },
+  {
+    "input": "91+76=",
+    "target": 167
+  },
+  {
+    "input": "73+73=",
+    "target": 146
+  },
+  {
+    "input": "87+97=",
+    "target": 184
+  },
+  {
+    "input": "2+48=",
+    "target": 50
+  },
+  {
+    "input": "28+89=",
+    "target": 117
+  },
+  {
+    "input": "78+43=",
+    "target": 121
+  },
+  {
+    "input": "49+55=",
+    "target": 104
+  },
+  {
+    "input": "27+51=",
+    "target": 78
+  },
+  {
+    "input": "75+24=",
+    "target": 99
+  },
+  {
+    "input": "30+60=",
+    "target": 90
+  },
+  {
+    "input": "10+12=",
+    "target": 22
+  },
+  {
+    "input": "40+42=",
+    "target": 82
+  },
+  {
+    "input": "34+58=",
+    "target": 92
+  },
+  {
+    "input": "18+30=",
+    "target": 48
+  },
+  {
+    "input": "36+80=",
+    "target": 116
+  },
+  {
+    "input": "45+56=",
+    "target": 101
+  },
+  {
+    "input": "94+13=",
+    "target": 107
+  },
+  {
+    "input": "63+48=",
+    "target": 111
+  },
+  {
+    "input": "89+13=",
+    "target": 102
+  },
+  {
+    "input": "69+34=",
+    "target": 103
+  },
+  {
+    "input": "25+42=",
+    "target": 67
+  },
+  {
+    "input": "78+52=",
+    "target": 130
+  },
+  {
+    "input": "24+64=",
+    "target": 88
+  },
+  {
+    "input": "90+40=",
+    "target": 130
+  },
+  {
+    "input": "54+59=",
+    "target": 113
+  },
+  {
+    "input": "18+72=",
+    "target": 90
+  },
+  {
+    "input": "66+57=",
+    "target": 123
+  },
+  {
+    "input": "49+36=",
+    "target": 85
+  },
+  {
+    "input": "33+40=",
+    "target": 73
+  },
+  {
+    "input": "16+7=",
+    "target": 23
+  },
+  {
+    "input": "20+47=",
+    "target": 67
+  },
+  {
+    "input": "47+94=",
+    "target": 141
+  },
+  {
+    "input": "53+11=",
+    "target": 64
+  },
+  {
+    "input": "17+51=",
+    "target": 68
+  },
+  {
+    "input": "96+92=",
+    "target": 188
+  },
+  {
+    "input": "89+34=",
+    "target": 123
+  },
+  {
+    "input": "90+27=",
+    "target": 117
+  },
+  {
+    "input": "13+19=",
+    "target": 32
+  },
+  {
+    "input": "80+87=",
+    "target": 167
+  },
+  {
+    "input": "17+19=",
+    "target": 36
+  },
+  {
+    "input": "61+88=",
+    "target": 149
+  },
+  {
+    "input": "14+50=",
+    "target": 64
+  },
+  {
+    "input": "91+76=",
+    "target": 167
+  },
+  {
+    "input": "90+41=",
+    "target": 131
+  },
+  {
+    "input": "10+20=",
+    "target": 30
+  },
+  {
+    "input": "45+28=",
+    "target": 73
+  },
+  {
+    "input": "7+65=",
+    "target": 72
+  },
+  {
+    "input": "14+57=",
+    "target": 71
+  },
+  {
+    "input": "71+73=",
+    "target": 144
+  },
+  {
+    "input": "87+32=",
+    "target": 119
+  },
+  {
+    "input": "99+32=",
+    "target": 131
+  },
+  {
+    "input": "81+73=",
+    "target": 154
+  },
+  {
+    "input": "91+46=",
+    "target": 137
+  },
+  {
+    "input": "60+94=",
+    "target": 154
+  },
+  {
+    "input": "61+78=",
+    "target": 139
+  },
+  {
+    "input": "21+35=",
+    "target": 56
+  },
+  {
+    "input": "23+63=",
+    "target": 86
+  },
+  {
+    "input": "8+29=",
+    "target": 37
+  },
+  {
+    "input": "94+79=",
+    "target": 173
+  },
+  {
+    "input": "87+3=",
+    "target": 90
+  },
+  {
+    "input": "54+8=",
+    "target": 62
+  },
+  {
+    "input": "80+94=",
+    "target": 174
+  },
+  {
+    "input": "14+7=",
+    "target": 21
+  },
+  {
+    "input": "49+42=",
+    "target": 91
+  },
+  {
+    "input": "1+78=",
+    "target": 79
+  },
+  {
+    "input": "14+32=",
+    "target": 46
+  },
+  {
+    "input": "6+38=",
+    "target": 44
+  },
+  {
+    "input": "30+46=",
+    "target": 76
+  },
+  {
+    "input": "12+58=",
+    "target": 70
+  },
+  {
+    "input": "95+39=",
+    "target": 134
+  },
+  {
+    "input": "42+61=",
+    "target": 103
+  },
+  {
+    "input": "88+22=",
+    "target": 110
+  },
+  {
+    "input": "44+10=",
+    "target": 54
+  },
+  {
+    "input": "47+93=",
+    "target": 140
+  },
+  {
+    "input": "71+32=",
+    "target": 103
+  },
+  {
+    "input": "100+39=",
+    "target": 139
+  },
+  {
+    "input": "35+33=",
+    "target": 68
+  },
+  {
+    "input": "75+38=",
+    "target": 113
+  },
+  {
+    "input": "71+88=",
+    "target": 159
+  },
+  {
+    "input": "49+24=",
+    "target": 73
+  },
+  {
+    "input": "54+72=",
+    "target": 126
+  },
+  {
+    "input": "90+56=",
+    "target": 146
+  },
+  {
+    "input": "89+48=",
+    "target": 137
+  },
+  {
+    "input": "61+27=",
+    "target": 88
+  },
+  {
+    "input": "92+65=",
+    "target": 157
+  },
+  {
+    "input": "92+61=",
+    "target": 153
+  },
+  {
+    "input": "72+33=",
+    "target": 105
+  },
+  {
+    "input": "45+52=",
+    "target": 97
+  },
+  {
+    "input": "56+83=",
+    "target": 139
+  },
+  {
+    "input": "8+51=",
+    "target": 59
+  },
+  {
+    "input": "1+82=",
+    "target": 83
+  },
+  {
+    "input": "77+99=",
+    "target": 176
+  },
+  {
+    "input": "100+69=",
+    "target": 169
+  },
+  {
+    "input": "21+37=",
+    "target": 58
+  },
+  {
+    "input": "57+35=",
+    "target": 92
+  },
+  {
+    "input": "2+10=",
+    "target": 12
+  },
+  {
+    "input": "32+76=",
+    "target": 108
+  },
+  {
+    "input": "14+68=",
+    "target": 82
+  },
+  {
+    "input": "28+32=",
+    "target": 60
+  },
+  {
+    "input": "70+45=",
+    "target": 115
+  },
+  {
+    "input": "26+29=",
+    "target": 55
+  },
+  {
+    "input": "33+28=",
+    "target": 61
+  },
+  {
+    "input": "12+62=",
+    "target": 74
+  },
+  {
+    "input": "4+77=",
+    "target": 81
+  },
+  {
+    "input": "60+1=",
+    "target": 61
+  },
+  {
+    "input": "57+5=",
+    "target": 62
+  },
+  {
+    "input": "96+53=",
+    "target": 149
+  },
+  {
+    "input": "88+70=",
+    "target": 158
+  },
+  {
+    "input": "61+22=",
+    "target": 83
+  },
+  {
+    "input": "75+64=",
+    "target": 139
+  },
+  {
+    "input": "43+79=",
+    "target": 122
+  },
+  {
+    "input": "28+62=",
+    "target": 90
+  },
+  {
+    "input": "79+8=",
+    "target": 87
+  },
+  {
+    "input": "43+62=",
+    "target": 105
+  },
+  {
+    "input": "63+92=",
+    "target": 155
+  },
+  {
+    "input": "93+41=",
+    "target": 134
+  },
+  {
+    "input": "99+45=",
+    "target": 144
+  },
+  {
+    "input": "16+13=",
+    "target": 29
+  },
+  {
+    "input": "82+16=",
+    "target": 98
+  },
+  {
+    "input": "99+51=",
+    "target": 150
+  },
+  {
+    "input": "38+11=",
+    "target": 49
+  },
+  {
+    "input": "51+14=",
+    "target": 65
+  },
+  {
+    "input": "56+14=",
+    "target": 70
+  },
+  {
+    "input": "72+92=",
+    "target": 164
+  },
+  {
+    "input": "17+61=",
+    "target": 78
+  },
+  {
+    "input": "56+26=",
+    "target": 82
+  },
+  {
+    "input": "11+7=",
+    "target": 18
+  },
+  {
+    "input": "85+15=",
+    "target": 100
+  },
+  {
+    "input": "52+80=",
+    "target": 132
+  },
+  {
+    "input": "87+90=",
+    "target": 177
+  },
+  {
+    "input": "54+21=",
+    "target": 75
+  },
+  {
+    "input": "42+10=",
+    "target": 52
+  },
+  {
+    "input": "10+45=",
+    "target": 55
+  },
+  {
+    "input": "80+84=",
+    "target": 164
+  },
+  {
+    "input": "9+99=",
+    "target": 108
+  },
+  {
+    "input": "90+70=",
+    "target": 160
+  },
+  {
+    "input": "71+38=",
+    "target": 109
+  },
+  {
+    "input": "23+68=",
+    "target": 91
+  },
+  {
+    "input": "42+22=",
+    "target": 64
+  },
+  {
+    "input": "49+78=",
+    "target": 127
+  },
+  {
+    "input": "38+45=",
+    "target": 83
+  },
+  {
+    "input": "35+65=",
+    "target": 100
+  },
+  {
+    "input": "82+1=",
+    "target": 83
+  },
+  {
+    "input": "29+99=",
+    "target": 128
+  },
+  {
+    "input": "100+78=",
+    "target": 178
+  },
+  {
+    "input": "25+20=",
+    "target": 45
+  },
+  {
+    "input": "40+60=",
+    "target": 100
+  },
+  {
+    "input": "26+31=",
+    "target": 57
+  },
+  {
+    "input": "18+50=",
+    "target": 68
+  },
+  {
+    "input": "55+99=",
+    "target": 154
+  },
+  {
+    "input": "52+48=",
+    "target": 100
+  },
+  {
+    "input": "23+24=",
+    "target": 47
+  },
+  {
+    "input": "45+21=",
+    "target": 66
+  },
+  {
+    "input": "31+17=",
+    "target": 48
+  },
+  {
+    "input": "97+88=",
+    "target": 185
+  },
+  {
+    "input": "99+29=",
+    "target": 128
+  },
+  {
+    "input": "12+55=",
+    "target": 67
+  },
+  {
+    "input": "73+63=",
+    "target": 136
+  },
+  {
+    "input": "71+45=",
+    "target": 116
+  },
+  {
+    "input": "8+7=",
+    "target": 15
+  },
+  {
+    "input": "83+91=",
+    "target": 174
+  },
+  {
+    "input": "68+71=",
+    "target": 139
+  },
+  {
+    "input": "3+27=",
+    "target": 30
+  },
+  {
+    "input": "54+59=",
+    "target": 113
+  },
+  {
+    "input": "56+98=",
+    "target": 154
+  },
+  {
+    "input": "34+91=",
+    "target": 125
+  },
+  {
+    "input": "88+15=",
+    "target": 103
+  },
+  {
+    "input": "28+25=",
+    "target": 53
+  },
+  {
+    "input": "70+60=",
+    "target": 130
+  },
+  {
+    "input": "71+48=",
+    "target": 119
+  },
+  {
+    "input": "18+40=",
+    "target": 58
+  },
+  {
+    "input": "9+85=",
+    "target": 94
+  },
+  {
+    "input": "61+38=",
+    "target": 99
+  },
+  {
+    "input": "17+42=",
+    "target": 59
+  },
+  {
+    "input": "30+96=",
+    "target": 126
+  },
+  {
+    "input": "46+91=",
+    "target": 137
+  },
+  {
+    "input": "33+83=",
+    "target": 116
+  },
+  {
+    "input": "85+12=",
+    "target": 97
+  },
+  {
+    "input": "30+21=",
+    "target": 51
+  },
+  {
+    "input": "98+64=",
+    "target": 162
+  },
+  {
+    "input": "65+74=",
+    "target": 139
+  },
+  {
+    "input": "97+1=",
+    "target": 98
+  },
+  {
+    "input": "80+69=",
+    "target": 149
+  },
+  {
+    "input": "67+9=",
+    "target": 76
+  },
+  {
+    "input": "5+66=",
+    "target": 71
+  },
+  {
+    "input": "91+72=",
+    "target": 163
+  },
+  {
+    "input": "100+20=",
+    "target": 120
+  },
+  {
+    "input": "12+35=",
+    "target": 47
+  },
+  {
+    "input": "60+15=",
+    "target": 75
+  },
+  {
+    "input": "9+48=",
+    "target": 57
+  },
+  {
+    "input": "15+37=",
+    "target": 52
+  },
+  {
+    "input": "45+20=",
+    "target": 65
+  },
+  {
+    "input": "63+48=",
+    "target": 111
+  },
+  {
+    "input": "76+17=",
+    "target": 93
+  },
+  {
+    "input": "16+79=",
+    "target": 95
+  },
+  {
+    "input": "44+75=",
+    "target": 119
+  },
+  {
+    "input": "44+42=",
+    "target": 86
+  },
+  {
+    "input": "80+100=",
+    "target": 180
+  },
+  {
+    "input": "31+20=",
+    "target": 51
+  },
+  {
+    "input": "26+69=",
+    "target": 95
+  },
+  {
+    "input": "99+47=",
+    "target": 146
+  },
+  {
+    "input": "72+18=",
+    "target": 90
+  },
+  {
+    "input": "79+22=",
+    "target": 101
+  },
+  {
+    "input": "88+5=",
+    "target": 93
+  },
+  {
+    "input": "98+24=",
+    "target": 122
+  },
+  {
+    "input": "49+5=",
+    "target": 54
+  },
+  {
+    "input": "14+22=",
+    "target": 36
+  },
+  {
+    "input": "78+81=",
+    "target": 159
+  },
+  {
+    "input": "61+3=",
+    "target": 64
+  },
+  {
+    "input": "76+72=",
+    "target": 148
+  },
+  {
+    "input": "11+78=",
+    "target": 89
+  },
+  {
+    "input": "64+43=",
+    "target": 107
+  },
+  {
+    "input": "64+58=",
+    "target": 122
+  },
+  {
+    "input": "34+93=",
+    "target": 127
+  },
+  {
+    "input": "74+51=",
+    "target": 125
+  },
+  {
+    "input": "47+39=",
+    "target": 86
+  },
+  {
+    "input": "16+68=",
+    "target": 84
+  },
+  {
+    "input": "72+21=",
+    "target": 93
+  },
+  {
+    "input": "23+62=",
+    "target": 85
+  },
+  {
+    "input": "42+42=",
+    "target": 84
+  },
+  {
+    "input": "29+28=",
+    "target": 57
+  },
+  {
+    "input": "21+40=",
+    "target": 61
+  },
+  {
+    "input": "52+47=",
+    "target": 99
+  },
+  {
+    "input": "47+68=",
+    "target": 115
+  },
+  {
+    "input": "33+95=",
+    "target": 128
+  },
+  {
+    "input": "81+76=",
+    "target": 157
+  },
+  {
+    "input": "97+87=",
+    "target": 184
+  },
+  {
+    "input": "23+15=",
+    "target": 38
+  },
+  {
+    "input": "70+95=",
+    "target": 165
+  },
+  {
+    "input": "84+67=",
+    "target": 151
+  },
+  {
+    "input": "62+43=",
+    "target": 105
+  },
+  {
+    "input": "31+91=",
+    "target": 122
+  },
+  {
+    "input": "100+92=",
+    "target": 192
+  },
+  {
+    "input": "47+51=",
+    "target": 98
+  },
+  {
+    "input": "20+75=",
+    "target": 95
+  },
+  {
+    "input": "63+50=",
+    "target": 113
+  },
+  {
+    "input": "3+32=",
+    "target": 35
+  },
+  {
+    "input": "15+40=",
+    "target": 55
+  },
+  {
+    "input": "29+23=",
+    "target": 52
+  },
+  {
+    "input": "14+47=",
+    "target": 61
+  },
+  {
+    "input": "40+15=",
+    "target": 55
+  },
+  {
+    "input": "28+36=",
+    "target": 64
+  },
+  {
+    "input": "4+51=",
+    "target": 55
+  },
+  {
+    "input": "42+88=",
+    "target": 130
+  },
+  {
+    "input": "35+29=",
+    "target": 64
+  },
+  {
+    "input": "53+83=",
+    "target": 136
+  },
+  {
+    "input": "28+89=",
+    "target": 117
+  },
+  {
+    "input": "33+85=",
+    "target": 118
+  },
+  {
+    "input": "85+44=",
+    "target": 129
+  },
+  {
+    "input": "78+4=",
+    "target": 82
+  },
+  {
+    "input": "63+21=",
+    "target": 84
+  },
+  {
+    "input": "7+74=",
+    "target": 81
+  },
+  {
+    "input": "14+85=",
+    "target": 99
+  },
+  {
+    "input": "2+66=",
+    "target": 68
+  },
+  {
+    "input": "3+56=",
+    "target": 59
+  },
+  {
+    "input": "51+98=",
+    "target": 149
+  },
+  {
+    "input": "96+21=",
+    "target": 117
+  },
+  {
+    "input": "81+19=",
+    "target": 100
+  },
+  {
+    "input": "25+35=",
+    "target": 60
+  },
+  {
+    "input": "37+69=",
+    "target": 106
+  },
+  {
+    "input": "95+45=",
+    "target": 140
+  },
+  {
+    "input": "28+41=",
+    "target": 69
+  },
+  {
+    "input": "44+17=",
+    "target": 61
+  },
+  {
+    "input": "39+79=",
+    "target": 118
+  },
+  {
+    "input": "78+98=",
+    "target": 176
+  },
+  {
+    "input": "38+21=",
+    "target": 59
+  },
+  {
+    "input": "16+79=",
+    "target": 95
+  },
+  {
+    "input": "7+13=",
+    "target": 20
+  },
+  {
+    "input": "23+67=",
+    "target": 90
+  },
+  {
+    "input": "96+85=",
+    "target": 181
+  },
+  {
+    "input": "49+3=",
+    "target": 52
+  },
+  {
+    "input": "43+96=",
+    "target": 139
+  },
+  {
+    "input": "47+43=",
+    "target": 90
+  },
+  {
+    "input": "35+58=",
+    "target": 93
+  },
+  {
+    "input": "7+8=",
+    "target": 15
+  },
+  {
+    "input": "58+72=",
+    "target": 130
+  },
+  {
+    "input": "77+47=",
+    "target": 124
+  },
+  {
+    "input": "32+42=",
+    "target": 74
+  },
+  {
+    "input": "86+49=",
+    "target": 135
+  },
+  {
+    "input": "100+6=",
+    "target": 106
+  },
+  {
+    "input": "24+94=",
+    "target": 118
+  },
+  {
+    "input": "52+1=",
+    "target": 53
+  },
+  {
+    "input": "86+73=",
+    "target": 159
+  },
+  {
+    "input": "74+19=",
+    "target": 93
+  },
+  {
+    "input": "92+62=",
+    "target": 154
+  },
+  {
+    "input": "89+4=",
+    "target": 93
+  },
+  {
+    "input": "67+34=",
+    "target": 101
+  },
+  {
+    "input": "1+46=",
+    "target": 47
+  },
+  {
+    "input": "63+17=",
+    "target": 80
+  },
+  {
+    "input": "18+40=",
+    "target": 58
+  },
+  {
+    "input": "72+23=",
+    "target": 95
+  },
+  {
+    "input": "4+51=",
+    "target": 55
+  },
+  {
+    "input": "46+95=",
+    "target": 141
+  },
+  {
+    "input": "87+52=",
+    "target": 139
+  },
+  {
+    "input": "77+66=",
+    "target": 143
+  },
+  {
+    "input": "44+26=",
+    "target": 70
+  },
+  {
+    "input": "43+79=",
+    "target": 122
+  },
+  {
+    "input": "44+16=",
+    "target": 60
+  },
+  {
+    "input": "37+60=",
+    "target": 97
+  },
+  {
+    "input": "69+95=",
+    "target": 164
+  },
+  {
+    "input": "17+99=",
+    "target": 116
+  },
+  {
+    "input": "93+14=",
+    "target": 107
+  },
+  {
+    "input": "85+15=",
+    "target": 100
+  },
+  {
+    "input": "68+13=",
+    "target": 81
+  },
+  {
+    "input": "16+60=",
+    "target": 76
+  },
+  {
+    "input": "23+38=",
+    "target": 61
+  },
+  {
+    "input": "91+22=",
+    "target": 113
+  },
+  {
+    "input": "94+54=",
+    "target": 148
+  },
+  {
+    "input": "84+38=",
+    "target": 122
+  },
+  {
+    "input": "73+39=",
+    "target": 112
+  },
+  {
+    "input": "54+74=",
+    "target": 128
+  },
+  {
+    "input": "58+76=",
+    "target": 134
+  },
+  {
+    "input": "72+31=",
+    "target": 103
+  },
+  {
+    "input": "81+86=",
+    "target": 167
+  },
+  {
+    "input": "72+34=",
+    "target": 106
+  },
+  {
+    "input": "85+87=",
+    "target": 172
+  },
+  {
+    "input": "7+37=",
+    "target": 44
+  },
+  {
+    "input": "30+21=",
+    "target": 51
+  },
+  {
+    "input": "98+40=",
+    "target": 138
+  },
+  {
+    "input": "25+4=",
+    "target": 29
+  },
+  {
+    "input": "97+96=",
+    "target": 193
+  },
+  {
+    "input": "67+60=",
+    "target": 127
+  },
+  {
+    "input": "32+87=",
+    "target": 119
+  },
+  {
+    "input": "63+51=",
+    "target": 114
+  },
+  {
+    "input": "15+71=",
+    "target": 86
+  },
+  {
+    "input": "89+43=",
+    "target": 132
+  },
+  {
+    "input": "64+29=",
+    "target": 93
+  },
+  {
+    "input": "26+63=",
+    "target": 89
+  },
+  {
+    "input": "12+91=",
+    "target": 103
+  },
+  {
+    "input": "27+92=",
+    "target": 119
+  },
+  {
+    "input": "33+24=",
+    "target": 57
+  },
+  {
+    "input": "33+50=",
+    "target": 83
+  },
+  {
+    "input": "79+51=",
+    "target": 130
+  },
+  {
+    "input": "51+42=",
+    "target": 93
+  },
+  {
+    "input": "16+2=",
+    "target": 18
+  },
+  {
+    "input": "4+67=",
+    "target": 71
+  },
+  {
+    "input": "45+8=",
+    "target": 53
+  },
+  {
+    "input": "39+47=",
+    "target": 86
+  },
+  {
+    "input": "18+99=",
+    "target": 117
+  },
+  {
+    "input": "30+19=",
+    "target": 49
+  },
+  {
+    "input": "30+54=",
+    "target": 84
+  },
+  {
+    "input": "1+78=",
+    "target": 79
+  },
+  {
+    "input": "36+30=",
+    "target": 66
+  },
+  {
+    "input": "95+45=",
+    "target": 140
+  },
+  {
+    "input": "28+78=",
+    "target": 106
+  },
+  {
+    "input": "7+2=",
+    "target": 9
+  },
+  {
+    "input": "11+62=",
+    "target": 73
+  },
+  {
+    "input": "21+24=",
+    "target": 45
+  },
+  {
+    "input": "57+97=",
+    "target": 154
+  },
+  {
+    "input": "89+44=",
+    "target": 133
+  },
+  {
+    "input": "31+59=",
+    "target": 90
+  },
+  {
+    "input": "93+29=",
+    "target": 122
+  },
+  {
+    "input": "9+43=",
+    "target": 52
+  },
+  {
+    "input": "30+51=",
+    "target": 81
+  },
+  {
+    "input": "36+31=",
+    "target": 67
+  },
+  {
+    "input": "11+43=",
+    "target": 54
+  },
+  {
+    "input": "15+35=",
+    "target": 50
+  },
+  {
+    "input": "46+1=",
+    "target": 47
+  },
+  {
+    "input": "54+21=",
+    "target": 75
+  },
+  {
+    "input": "15+63=",
+    "target": 78
+  },
+  {
+    "input": "73+65=",
+    "target": 138
+  },
+  {
+    "input": "71+32=",
+    "target": 103
+  },
+  {
+    "input": "37+67=",
+    "target": 104
+  },
+  {
+    "input": "34+90=",
+    "target": 124
+  },
+  {
+    "input": "58+32=",
+    "target": 90
+  },
+  {
+    "input": "12+97=",
+    "target": 109
+  },
+  {
+    "input": "61+48=",
+    "target": 109
+  },
+  {
+    "input": "5+88=",
+    "target": 93
+  },
+  {
+    "input": "69+96=",
+    "target": 165
+  },
+  {
+    "input": "64+63=",
+    "target": 127
+  },
+  {
+    "input": "97+83=",
+    "target": 180
+  },
+  {
+    "input": "71+90=",
+    "target": 161
+  },
+  {
+    "input": "4+33=",
+    "target": 37
+  },
+  {
+    "input": "32+53=",
+    "target": 85
+  },
+  {
+    "input": "10+49=",
+    "target": 59
+  },
+  {
+    "input": "25+20=",
+    "target": 45
+  },
+  {
+    "input": "70+29=",
+    "target": 99
+  },
+  {
+    "input": "22+26=",
+    "target": 48
+  },
+  {
+    "input": "83+95=",
+    "target": 178
+  },
+  {
+    "input": "97+31=",
+    "target": 128
+  },
+  {
+    "input": "7+76=",
+    "target": 83
+  },
+  {
+    "input": "62+37=",
+    "target": 99
+  },
+  {
+    "input": "6+77=",
+    "target": 83
+  },
+  {
+    "input": "7+76=",
+    "target": 83
+  },
+  {
+    "input": "96+2=",
+    "target": 98
+  },
+  {
+    "input": "41+24=",
+    "target": 65
+  },
+  {
+    "input": "60+1=",
+    "target": 61
+  },
+  {
+    "input": "34+69=",
+    "target": 103
+  },
+  {
+    "input": "61+17=",
+    "target": 78
+  },
+  {
+    "input": "10+76=",
+    "target": 86
+  },
+  {
+    "input": "23+16=",
+    "target": 39
+  },
+  {
+    "input": "77+96=",
+    "target": 173
+  },
+  {
+    "input": "90+66=",
+    "target": 156
+  },
+  {
+    "input": "36+6=",
+    "target": 42
+  },
+  {
+    "input": "88+86=",
+    "target": 174
+  },
+  {
+    "input": "67+13=",
+    "target": 80
+  },
+  {
+    "input": "8+38=",
+    "target": 46
+  },
+  {
+    "input": "56+12=",
+    "target": 68
+  },
+  {
+    "input": "4+78=",
+    "target": 82
+  },
+  {
+    "input": "36+9=",
+    "target": 45
+  },
+  {
+    "input": "12+20=",
+    "target": 32
+  },
+  {
+    "input": "96+77=",
+    "target": 173
+  },
+  {
+    "input": "4+21=",
+    "target": 25
+  },
+  {
+    "input": "71+76=",
+    "target": 147
+  },
+  {
+    "input": "39+36=",
+    "target": 75
+  },
+  {
+    "input": "52+80=",
+    "target": 132
+  },
+  {
+    "input": "84+44=",
+    "target": 128
+  },
+  {
+    "input": "27+35=",
+    "target": 62
+  },
+  {
+    "input": "25+75=",
+    "target": 100
+  },
+  {
+    "input": "81+36=",
+    "target": 117
+  },
+  {
+    "input": "22+51=",
+    "target": 73
+  },
+  {
+    "input": "37+5=",
+    "target": 42
+  },
+  {
+    "input": "45+55=",
+    "target": 100
+  },
+  {
+    "input": "36+51=",
+    "target": 87
+  },
+  {
+    "input": "54+79=",
+    "target": 133
+  },
+  {
+    "input": "74+5=",
+    "target": 79
+  },
+  {
+    "input": "66+70=",
+    "target": 136
+  },
+  {
+    "input": "56+47=",
+    "target": 103
+  },
+  {
+    "input": "56+9=",
+    "target": 65
+  },
+  {
+    "input": "60+10=",
+    "target": 70
+  },
+  {
+    "input": "20+56=",
+    "target": 76
+  },
+  {
+    "input": "20+86=",
+    "target": 106
+  },
+  {
+    "input": "5+20=",
+    "target": 25
+  },
+  {
+    "input": "57+80=",
+    "target": 137
+  },
+  {
+    "input": "35+83=",
+    "target": 118
+  },
+  {
+    "input": "16+97=",
+    "target": 113
+  },
+  {
+    "input": "74+42=",
+    "target": 116
+  },
+  {
+    "input": "28+16=",
+    "target": 44
+  },
+  {
+    "input": "25+30=",
+    "target": 55
+  },
+  {
+    "input": "14+47=",
+    "target": 61
+  },
+  {
+    "input": "11+35=",
+    "target": 46
+  },
+  {
+    "input": "35+8=",
+    "target": 43
+  },
+  {
+    "input": "8+42=",
+    "target": 50
+  },
+  {
+    "input": "84+14=",
+    "target": 98
+  },
+  {
+    "input": "46+12=",
+    "target": 58
+  },
+  {
+    "input": "19+62=",
+    "target": 81
+  },
+  {
+    "input": "99+26=",
+    "target": 125
+  },
+  {
+    "input": "82+9=",
+    "target": 91
+  },
+  {
+    "input": "69+61=",
+    "target": 130
+  },
+  {
+    "input": "41+95=",
+    "target": 136
+  },
+  {
+    "input": "95+93=",
+    "target": 188
+  },
+  {
+    "input": "56+79=",
+    "target": 135
+  },
+  {
+    "input": "21+61=",
+    "target": 82
+  },
+  {
+    "input": "70+81=",
+    "target": 151
+  },
+  {
+    "input": "40+31=",
+    "target": 71
+  },
+  {
+    "input": "29+84=",
+    "target": 113
+  },
+  {
+    "input": "5+54=",
+    "target": 59
+  },
+  {
+    "input": "68+79=",
+    "target": 147
+  },
+  {
+    "input": "84+77=",
+    "target": 161
+  },
+  {
+    "input": "37+62=",
+    "target": 99
+  },
+  {
+    "input": "51+84=",
+    "target": 135
+  },
+  {
+    "input": "59+80=",
+    "target": 139
+  },
+  {
+    "input": "74+35=",
+    "target": 109
+  },
+  {
+    "input": "22+57=",
+    "target": 79
+  },
+  {
+    "input": "62+17=",
+    "target": 79
+  },
+  {
+    "input": "91+7=",
+    "target": 98
+  },
+  {
+    "input": "43+99=",
+    "target": 142
+  },
+  {
+    "input": "74+22=",
+    "target": 96
+  },
+  {
+    "input": "90+18=",
+    "target": 108
+  },
+  {
+    "input": "37+14=",
+    "target": 51
+  },
+  {
+    "input": "14+34=",
+    "target": 48
+  },
+  {
+    "input": "81+40=",
+    "target": 121
+  },
+  {
+    "input": "95+12=",
+    "target": 107
+  },
+  {
+    "input": "53+27=",
+    "target": 80
+  },
+  {
+    "input": "85+58=",
+    "target": 143
+  },
+  {
+    "input": "87+25=",
+    "target": 112
+  },
+  {
+    "input": "65+20=",
+    "target": 85
+  },
+  {
+    "input": "97+6=",
+    "target": 103
+  },
+  {
+    "input": "71+90=",
+    "target": 161
+  },
+  {
+    "input": "21+25=",
+    "target": 46
+  },
+  {
+    "input": "82+7=",
+    "target": 89
+  },
+  {
+    "input": "52+6=",
+    "target": 58
+  },
+  {
+    "input": "11+60=",
+    "target": 71
+  },
+  {
+    "input": "18+56=",
+    "target": 74
+  },
+  {
+    "input": "13+93=",
+    "target": 106
+  },
+  {
+    "input": "81+32=",
+    "target": 113
+  },
+  {
+    "input": "95+78=",
+    "target": 173
+  },
+  {
+    "input": "20+67=",
+    "target": 87
+  },
+  {
+    "input": "87+74=",
+    "target": 161
+  },
+  {
+    "input": "83+20=",
+    "target": 103
+  },
+  {
+    "input": "86+27=",
+    "target": 113
+  },
+  {
+    "input": "98+21=",
+    "target": 119
+  },
+  {
+    "input": "89+57=",
+    "target": 146
+  },
+  {
+    "input": "68+10=",
+    "target": 78
+  },
+  {
+    "input": "43+69=",
+    "target": 112
+  },
+  {
+    "input": "65+79=",
+    "target": 144
+  },
+  {
+    "input": "20+35=",
+    "target": 55
+  },
+  {
+    "input": "97+25=",
+    "target": 122
+  },
+  {
+    "input": "6+18=",
+    "target": 24
+  },
+  {
+    "input": "87+35=",
+    "target": 122
+  },
+  {
+    "input": "67+36=",
+    "target": 103
+  },
+  {
+    "input": "80+63=",
+    "target": 143
+  },
+  {
+    "input": "28+71=",
+    "target": 99
+  },
+  {
+    "input": "40+74=",
+    "target": 114
+  },
+  {
+    "input": "77+66=",
+    "target": 143
+  },
+  {
+    "input": "50+70=",
+    "target": 120
+  },
+  {
+    "input": "91+33=",
+    "target": 124
+  },
+  {
+    "input": "44+80=",
+    "target": 124
+  },
+  {
+    "input": "98+75=",
+    "target": 173
+  },
+  {
+    "input": "86+60=",
+    "target": 146
+  },
+  {
+    "input": "57+85=",
+    "target": 142
+  },
+  {
+    "input": "61+95=",
+    "target": 156
+  },
+  {
+    "input": "81+23=",
+    "target": 104
+  },
+  {
+    "input": "12+95=",
+    "target": 107
+  },
+  {
+    "input": "21+38=",
+    "target": 59
+  },
+  {
+    "input": "75+2=",
+    "target": 77
+  },
+  {
+    "input": "32+54=",
+    "target": 86
+  },
+  {
+    "input": "22+98=",
+    "target": 120
+  },
+  {
+    "input": "60+41=",
+    "target": 101
+  },
+  {
+    "input": "66+39=",
+    "target": 105
+  },
+  {
+    "input": "19+10=",
+    "target": 29
+  },
+  {
+    "input": "56+67=",
+    "target": 123
+  },
+  {
+    "input": "26+70=",
+    "target": 96
+  },
+  {
+    "input": "48+72=",
+    "target": 120
+  },
+  {
+    "input": "6+1=",
+    "target": 7
+  },
+  {
+    "input": "99+53=",
+    "target": 152
+  },
+  {
+    "input": "1+3=",
+    "target": 4
+  },
+  {
+    "input": "67+76=",
+    "target": 143
+  },
+  {
+    "input": "100+16=",
+    "target": 116
+  },
+  {
+    "input": "20+82=",
+    "target": 102
+  },
+  {
+    "input": "75+24=",
+    "target": 99
+  },
+  {
+    "input": "7+5=",
+    "target": 12
+  },
+  {
+    "input": "99+19=",
+    "target": 118
+  },
+  {
+    "input": "33+97=",
+    "target": 130
+  },
+  {
+    "input": "14+18=",
+    "target": 32
+  },
+  {
+    "input": "4+68=",
+    "target": 72
+  },
+  {
+    "input": "67+42=",
+    "target": 109
+  },
+  {
+    "input": "94+3=",
+    "target": 97
+  },
+  {
+    "input": "33+39=",
+    "target": 72
+  },
+  {
+    "input": "86+65=",
+    "target": 151
+  },
+  {
+    "input": "67+79=",
+    "target": 146
+  },
+  {
+    "input": "81+25=",
+    "target": 106
+  },
+  {
+    "input": "8+89=",
+    "target": 97
+  },
+  {
+    "input": "1+36=",
+    "target": 37
+  },
+  {
+    "input": "7+78=",
+    "target": 85
+  },
+  {
+    "input": "8+36=",
+    "target": 44
+  },
+  {
+    "input": "25+86=",
+    "target": 111
+  },
+  {
+    "input": "48+30=",
+    "target": 78
+  },
+  {
+    "input": "18+48=",
+    "target": 66
+  },
+  {
+    "input": "43+69=",
+    "target": 112
+  },
+  {
+    "input": "33+71=",
+    "target": 104
+  },
+  {
+    "input": "46+79=",
+    "target": 125
+  },
+  {
+    "input": "94+79=",
+    "target": 173
+  },
+  {
+    "input": "99+36=",
+    "target": 135
+  },
+  {
+    "input": "24+6=",
+    "target": 30
+  },
+  {
+    "input": "52+78=",
+    "target": 130
+  },
+  {
+    "input": "80+7=",
+    "target": 87
+  },
+  {
+    "input": "81+41=",
+    "target": 122
+  },
+  {
+    "input": "47+86=",
+    "target": 133
+  },
+  {
+    "input": "14+13=",
+    "target": 27
+  },
+  {
+    "input": "70+67=",
+    "target": 137
+  },
+  {
+    "input": "57+79=",
+    "target": 136
+  },
+  {
+    "input": "47+56=",
+    "target": 103
+  },
+  {
+    "input": "14+66=",
+    "target": 80
+  },
+  {
+    "input": "98+84=",
+    "target": 182
+  },
+  {
+    "input": "49+99=",
+    "target": 148
+  },
+  {
+    "input": "30+68=",
+    "target": 98
+  },
+  {
+    "input": "79+81=",
+    "target": 160
+  },
+  {
+    "input": "91+9=",
+    "target": 100
+  },
+  {
+    "input": "73+14=",
+    "target": 87
+  },
+  {
+    "input": "33+80=",
+    "target": 113
+  },
+  {
+    "input": "65+23=",
+    "target": 88
+  },
+  {
+    "input": "6+76=",
+    "target": 82
+  },
+  {
+    "input": "60+91=",
+    "target": 151
+  },
+  {
+    "input": "90+78=",
+    "target": 168
+  },
+  {
+    "input": "43+41=",
+    "target": 84
+  },
+  {
+    "input": "7+8=",
+    "target": 15
+  },
+  {
+    "input": "40+15=",
+    "target": 55
+  },
+  {
+    "input": "17+5=",
+    "target": 22
+  },
+  {
+    "input": "97+89=",
+    "target": 186
+  },
+  {
+    "input": "20+65=",
+    "target": 85
+  },
+  {
+    "input": "80+28=",
+    "target": 108
+  },
+  {
+    "input": "63+51=",
+    "target": 114
+  },
+  {
+    "input": "78+27=",
+    "target": 105
+  },
+  {
+    "input": "19+48=",
+    "target": 67
+  }
+]
